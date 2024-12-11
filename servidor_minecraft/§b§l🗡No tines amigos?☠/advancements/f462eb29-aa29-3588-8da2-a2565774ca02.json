@@ -135,6 +135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_fence": {
     "criteria": {
       "has_maple_planks": "2024-12-11 05:13:34 +0000"
@@ -231,6 +237,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_maple_planks": "2024-12-11 05:13:34 +0000"
@@ -252,6 +264,12 @@
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-11 05:25:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
     },
     "done": true
   },
@@ -297,6 +315,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-11 05:25:56 +0000"
@@ -306,6 +330,12 @@
   "regions_unexplored:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_maple_planks": "2024-12-11 05:13:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/orange_maple_sapling_from_orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_shrub": "2024-12-11 05:40:53 +0000"
     },
     "done": true
   },
@@ -645,6 +675,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_maple_planks": "2024-12-11 05:13:34 +0000"
@@ -663,9 +699,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 05:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-11 05:37:52 +0000"
     },
     "done": true
   },
@@ -819,6 +867,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-11 05:21:48 +0000"
@@ -840,6 +894,12 @@
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
       "in_water": "2024-12-11 05:22:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
     },
     "done": true
   },
@@ -885,6 +945,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-11 05:25:56 +0000"
@@ -903,9 +969,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-11 05:21:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
     },
     "done": true
   },
@@ -918,6 +1002,12 @@
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-11 05:13:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
     },
     "done": true
   },
@@ -1065,6 +1155,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-11 05:21:48 +0000"
@@ -1086,6 +1182,12 @@
   "regions_unexplored:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-12-11 05:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-11 05:37:52 +0000"
     },
     "done": true
   },
@@ -1155,6 +1257,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-11 05:08:28 +0000"
@@ -1167,9 +1275,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-11 05:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-11 05:37:52 +0000"
     },
     "done": true
   },
@@ -1188,6 +1308,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 05:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-11 05:37:52 +0000"
     },
     "done": true
   },
@@ -1212,6 +1338,12 @@
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 05:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-11 05:36:31 +0000"
     },
     "done": true
   },
@@ -1263,6 +1395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-11 05:21:48 +0000"
@@ -1281,6 +1419,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-11 05:17:15 +0000"
@@ -1290,6 +1434,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-11 05:21:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
     },
     "done": true
   },
@@ -1344,6 +1494,12 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-11 05:08:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-11 05:37:52 +0000"
     },
     "done": true
   },
