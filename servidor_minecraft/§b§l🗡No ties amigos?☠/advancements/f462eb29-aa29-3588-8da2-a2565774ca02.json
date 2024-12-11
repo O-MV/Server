@@ -893,7 +893,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-11 21:43:25 +0000",
       "minecraft:skeleton": "2024-12-11 06:02:53 +0000",
+      "minecraft:vindicator": "2024-12-11 21:42:48 +0000",
       "minecraft:stray": "2024-12-11 07:16:06 +0000",
       "minecraft:zombie": "2024-12-11 05:58:04 +0000"
     },
@@ -3400,9 +3402,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "has_mutton": "2024-12-11 21:31:06 +0000"
+      "coded_trigger": "2024-12-11 21:20:02 +0000"
     },
     "done": true
   },
@@ -3418,12 +3420,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
-    "criteria": {
-      "has_hyssop": "2024-12-11 21:29:07 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-12-11 21:26:30 +0000"
@@ -3433,12 +3429,6 @@
   "iceandfire:recipes/combat/armor_green_helmet": {
     "criteria": {
       "has_item": "2024-12-11 21:26:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2024-12-11 21:27:51 +0000"
     },
     "done": true
   },
@@ -3460,27 +3450,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-11 21:28:50 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2024-12-11 21:26:30 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/bouquet": {
-    "criteria": {
-      "has_item": "2024-12-11 21:29:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mysterious_gift": {
-    "criteria": {
-      "coded_trigger": "2024-12-11 21:20:02 +0000"
     },
     "done": true
   },
@@ -3502,12 +3474,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2024-12-11 21:28:43 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2024-12-11 21:26:30 +0000"
@@ -3517,18 +3483,6 @@
   "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
     "criteria": {
       "has_dragonscales_green": "2024-12-11 21:26:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2024-12-11 21:28:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2024-12-11 21:31:06 +0000"
     },
     "done": true
   },
@@ -3544,21 +3498,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2024-12-11 21:28:50 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2024-12-11 21:26:30 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-11 21:27:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2024-12-11 21:27:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-11 21:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-11 21:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-11 21:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-11 21:28:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2024-12-11 21:29:07 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-11 21:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-11 21:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-11 21:31:06 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2024-12-11 21:42:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 21:43:25 +0000"
     },
     "done": true
   },
