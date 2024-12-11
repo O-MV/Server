@@ -446,3 +446,39 @@
 [11Dec2024 07:08:40.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
 [11Dec2024 07:08:41.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Minecraft Comes Alive]
 [11Dec2024 07:10:29.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [What a Deal!]
+[11Dec2024 07:14:04.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Ashes 'n Bones]
+[11Dec2024 07:14:28.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Monster Hunter]
+[11Dec2024 07:14:59.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [A Strange Grave Dust]
+[11Dec2024 07:15:53.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[11Dec2024 07:15:53.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[11Dec2024 07:16:18.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.51.150.233:39741] logged in with entity id 26646 at (632.5743434081555, 73.0, 720.1144915638504)
+[11Dec2024 07:16:18.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[11Dec2024 07:18:19.947] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Olaf'/23512, l='ServerLevel[🗡No ties amigos?☠]', x=620.48, y=73.00, z=670.72] died, message: 'Olaf was slain by manu'
+[11Dec2024 07:18:19.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Neighborhood Brawl]
+[11Dec2024 07:18:19.953] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Olaf'/23512, l='ServerLevel[🗡No ties amigos?☠]', x=620.48, y=73.00, z=670.72] died: Olaf was slain by manu
+[11Dec2024 07:19:42.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=652, y=71, z=738} BlockPos{x=652, y=70, z=739}
+[11Dec2024 07:23:11.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[11Dec2024 07:23:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[11Dec2024 07:23:18.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> arriva las chivas HDSPTM
+[11Dec2024 07:26:23.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Mine? Mine? Mine?]
+[11Dec2024 07:26:37.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:519, y:51, z:557, dim:minecraft:overworld]
+[11Dec2024 07:26:38.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> [x:599, y:96, z:680, dim:minecraft:overworld]
+[11Dec2024 07:27:28.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu fell from a high place
+[11Dec2024 07:27:28.609] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[11Dec2024 07:27:28.617] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[11Dec2024 07:27:33.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Else'/23475, l='ServerLevel[🗡No ties amigos?☠]', x=492.52, y=36.00, z=643.28] died, message: 'Else (Following) hit the ground too hard'
+[11Dec2024 07:27:33.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Else'/23475, l='ServerLevel[🗡No ties amigos?☠]', x=492.52, y=36.00, z=643.28] died: Else (Following) fell from a high place
+[11Dec2024 07:27:46.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu fell from a high place
+[11Dec2024 07:28:26.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
+[11Dec2024 07:28:56.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to manu
+[11Dec2024 07:29:19.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[11Dec2024 07:29:19.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp ram  ADMIN<--[HERE]
+[11Dec2024 07:29:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[11Dec2024 07:29:25.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp manu  ADMIN<--[HERE]
+[11Dec2024 07:29:42.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
+[11Dec2024 07:29:58.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[11Dec2024 07:30:26.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Ashes 'n Bones]
+[11Dec2024 07:30:26.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Who You Gonna Call?]
+[11Dec2024 07:30:42.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. death.attack.mob.player
+[11Dec2024 07:30:42.240] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[11Dec2024 07:30:42.244] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
