@@ -182,3 +182,8 @@
 [11Dec2024 04:15:27.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was slain by Zombie
 [11Dec2024 04:15:27.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Your First Grave]
 [11Dec2024 04:15:30.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [The Most Useful Key]
+[11Dec2024 04:21:22.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:46847] logged in with entity id 2025 at (6.5, 66.0, 0.5)
+[11Dec2024 04:21:22.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[11Dec2024 04:21:22.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Christmas]
+[11Dec2024 04:21:22.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Ice and Fire]
+[11Dec2024 04:21:22.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Terramity]
