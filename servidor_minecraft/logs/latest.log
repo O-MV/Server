@@ -266,3 +266,53 @@
 [11Dec2024 21:44:26.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! 6.625269699633918,0.8681397621424836,7.607344989749567
 [11Dec2024 21:45:07.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
 [11Dec2024 21:45:07.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[11Dec2024 21:48:13.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[11Dec2024 21:48:13.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[11Dec2024 21:50:52.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.124.47.124:41937] logged in with entity id 11463 at (844.50326394081, 64.0, 77.00763481749787)
+[11Dec2024 21:50:52.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[11Dec2024 21:54:07.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[11Dec2024 21:54:07.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[11Dec2024 21:54:19.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.124.47.124:38071] logged in with entity id 12004 at (846.6600819748403, 64.5625, 77.69999998807907)
+[11Dec2024 21:54:19.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[11Dec2024 21:57:11.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:33231] logged in with entity id 12907 at (690.3811861113192, 63.0, 35.02830392713055)
+[11Dec2024 21:57:11.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[11Dec2024 21:57:41.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[11Dec2024 21:57:41.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[11Dec2024 21:58:36.249] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:33665] logged in with entity id 13440 at (690.3811861113192, 63.0, 35.02830392713055)
+[11Dec2024 21:58:36.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[11Dec2024 21:59:06.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[11Dec2024 21:59:06.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[11Dec2024 22:00:43.940] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Menno}[style={}] has been infected
+[11Dec2024 22:00:50.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Menno'/8965, l='ServerLevel[🗡No ties amigos?☠]', x=758.64, y=64.00, z=128.15] died, message: 'Menno was slain by Zombie'
+[11Dec2024 22:00:50.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Menno'/8965, l='ServerLevel[🗡No ties amigos?☠]', x=758.64, y=64.00, z=128.15] died: Menno was slain by Zombie
+[11Dec2024 22:00:54.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:38569] logged in with entity id 14005 at (690.3811861113192, 63.0, 35.02830392713055)
+[11Dec2024 22:00:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[11Dec2024 22:01:24.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[11Dec2024 22:01:24.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[11Dec2024 22:02:48.281] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Hendrick}[style={}] has been infected
+[11Dec2024 22:05:10.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Dec2024 22:05:10.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: opt ADMIN<--[HERE]
+[11Dec2024 22:05:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Dec2024 22:05:25.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: otp ADMIN<--[HERE]
+[11Dec2024 22:13:05.311] [Server thread/ERROR] [mezz.jei.common.transfer.BasicRecipeTransferHandlerServer/]: Tried to transfer recipe but was given an empty inventory slot as an ingredient source: 33
+[11Dec2024 22:13:16.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [A Seedy Place]
+[11Dec2024 22:16:26.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> eeeeeee
+[11Dec2024 22:16:31.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> jungla diff
+[11Dec2024 22:18:28.841] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hinrikus'/8902, l='ServerLevel[🗡No ties amigos?☠]', x=865.57, y=67.00, z=134.71] died, message: 'Hinrikus was blown up by Troll'
+[11Dec2024 22:18:28.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hinrikus'/8902, l='ServerLevel[🗡No ties amigos?☠]', x=865.57, y=67.00, z=134.71] died: Hinrikus was blown up by Troll
+[11Dec2024 22:19:22.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:866, y:68, z:124, dim:minecraft:overworld]
+[11Dec2024 22:19:26.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:53679] logged in with entity id 17606 at (690.3811861113192, 63.0, 35.02830392713055)
+[11Dec2024 22:19:26.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[11Dec2024 22:20:31.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Disconnected
+[11Dec2024 22:20:31.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[11Dec2024 22:23:25.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lambert'/11471, l='ServerLevel[🗡No ties amigos?☠]', x=869.60, y=70.00, z=180.50] died, message: 'Lambert was slain by Zombie'
+[11Dec2024 22:23:25.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lambert'/11471, l='ServerLevel[🗡No ties amigos?☠]', x=869.60, y=70.00, z=180.50] died: Lambert was slain by Zombie
+[11Dec2024 22:26:02.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[11Dec2024 22:26:02.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[11Dec2024 22:26:22.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:774, y:76, z:159, dim:minecraft:overworld]
+[11Dec2024 22:26:38.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:57989] logged in with entity id 19217 at (838.5519965302594, 63.0, 82.76249998807907)
+[11Dec2024 22:26:38.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[11Dec2024 22:27:08.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[11Dec2024 22:27:08.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[11Dec2024 22:27:17.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.80.189.180:38519] logged in with entity id 19334 at (690.3811861113192, 63.0, 35.02830392713055)
+[11Dec2024 22:27:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game

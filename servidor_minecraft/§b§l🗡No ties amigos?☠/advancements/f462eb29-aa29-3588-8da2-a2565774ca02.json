@@ -256,6 +256,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "willow_log": "2024-12-11 22:06:30 +0000",
       "redwood_log": "2024-12-11 05:52:48 +0000"
     },
     "done": false
@@ -3573,6 +3574,234 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-12-11 21:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-11 21:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-11 21:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-11 21:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-11 21:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-11 21:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-11 21:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-11 21:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-11 21:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-11 21:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-11 21:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-11 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-11 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-11 21:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-11 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-11 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-11 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-11 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-11 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-11 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-11 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-11 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-11 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-11 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-11 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
+    "criteria": {
+      "has_log": "2024-12-11 22:06:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2024-12-11 22:06:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2024-12-11 22:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-11 22:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-11 22:07:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_willow_planks": "2024-12-11 22:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_willow_planks": "2024-12-11 22:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_willow_planks": "2024-12-11 22:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_willow_planks": "2024-12-11 22:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_willow_planks": "2024-12-11 22:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_pressure_plate": {
+    "criteria": {
+      "has_willow_planks": "2024-12-11 22:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_willow_planks": "2024-12-11 22:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_willow_planks": "2024-12-11 22:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_willow_planks": "2024-12-11 22:11:52 +0000"
     },
     "done": true
   },
