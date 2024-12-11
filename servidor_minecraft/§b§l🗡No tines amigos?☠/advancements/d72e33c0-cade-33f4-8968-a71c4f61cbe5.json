@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
@@ -143,6 +149,42 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_shrub": {
     "criteria": {
       "has_maple_sapling": "2024-12-11 05:13:17 +0000"
@@ -152,6 +194,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
     },
     "done": true
   },
@@ -170,6 +218,12 @@
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
     },
     "done": true
   },
@@ -197,15 +251,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_maple_planks": "2024-12-11 05:12:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2024-12-11 05:11:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
     },
     "done": true
   },
@@ -227,15 +311,57 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-11 05:12:05 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
     },
     "done": true
   },
@@ -254,6 +380,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-11 05:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-11 05:19:31 +0000"
     },
     "done": true
   },
@@ -281,15 +413,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-11 05:18:44 +0000"
     },
     "done": true
   },
@@ -305,9 +479,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
     },
     "done": true
   },
@@ -326,6 +518,12 @@
   "securitycraft:recipes/misc/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
     },
     "done": true
   },
@@ -359,9 +557,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_maple_planks": "2024-12-11 05:12:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
     },
     "done": true
   },
@@ -371,9 +581,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-11 05:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
     },
     "done": true
   },
@@ -383,15 +611,69 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-11 05:12:05 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-11 05:16:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-11 05:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-11 05:18:04 +0000"
     },
     "done": true
   },
@@ -407,15 +689,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-11 05:12:05 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
     },
     "done": true
   },
@@ -449,9 +761,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2024-12-11 05:12:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
     },
     "done": true
   },
@@ -461,9 +785,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 05:19:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
     },
     "done": true
   },
@@ -479,9 +845,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
     },
     "done": true
   },
@@ -497,6 +893,42 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-11 05:21:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
@@ -509,6 +941,48 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-11 05:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 05:17:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-11 05:12:03 +0000"
@@ -518,6 +992,18 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-11 05:11:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 05:24:02 +0000"
     },
     "done": true
   },
