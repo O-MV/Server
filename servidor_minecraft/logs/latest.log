@@ -195,3 +195,4 @@
 [11Dec2024 22:54:28.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
 [11Dec2024 22:54:28.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
 [11Dec2024 23:02:04.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Would you Like to Know More?]
+[11Dec2024 23:19:34.824] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Claas}[style={}] has been infected
