@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 07:40:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2024-12-11 05:54:30 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-11 07:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-11 06:01:13 +0000"
@@ -520,6 +532,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-11 06:26:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-11 07:30:21 +0000"
     },
     "done": true
   },
@@ -1168,6 +1186,12 @@
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-11 06:34:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-11 07:30:19 +0000"
     },
     "done": true
   },
@@ -1993,6 +2017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-11 07:30:19 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2024-12-11 06:25:56 +0000"
@@ -2290,6 +2320,12 @@
   "regions_unexplored:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_redwood_planks": "2024-12-11 05:53:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-11 07:38:49 +0000"
     },
     "done": true
   },
@@ -2763,6 +2799,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "willow_forest": "2024-12-11 07:31:58 +0000",
       "grassy_beach": "2024-12-11 05:52:05 +0000",
       "blackwood_taiga": "2024-12-11 06:55:10 +0000",
       "magnolia_highlands": "2024-12-11 06:51:51 +0000",
@@ -2794,6 +2831,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-11 06:08:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-11 07:31:29 +0000"
     },
     "done": true
   },
@@ -3009,6 +3052,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "willow_forest": "2024-12-11 07:31:58 +0000",
       "grassy_beach": "2024-12-11 05:52:05 +0000",
       "blackwood_taiga": "2024-12-11 06:55:10 +0000",
       "magnolia_highlands": "2024-12-11 06:51:51 +0000",
@@ -3045,6 +3089,12 @@
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-11 05:55:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-12-11 07:30:21 +0000"
     },
     "done": true
   },
@@ -3110,8 +3160,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-12-11 07:39:31 +0000",
       "minecraft:river": "2024-12-11 06:05:16 +0000",
       "minecraft:stony_shore": "2024-12-11 06:52:50 +0000",
+      "minecraft:forest": "2024-12-11 07:40:17 +0000",
       "minecraft:lush_caves": "2024-12-11 06:13:57 +0000",
       "minecraft:jungle": "2024-12-11 05:53:56 +0000"
     },
@@ -3126,6 +3178,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-12-11 06:53:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-11 07:30:26 +0000"
     },
     "done": true
   },
@@ -3251,6 +3309,12 @@
   "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-11 06:25:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 07:30:26 +0000"
     },
     "done": true
   },

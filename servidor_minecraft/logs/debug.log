@@ -7478,3 +7478,89 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Dec2024 07:30:42.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. death.attack.mob.player
 [11Dec2024 07:30:42.240] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
 [11Dec2024 07:30:42.244] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[11Dec2024 07:31:20.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Who You Gonna Call?]
+[11Dec2024 07:31:29.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Pic-A-Nic Basket?]
+[11Dec2024 07:31:46.570] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[11Dec2024 07:31:46.571] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[11Dec2024 07:31:46.572] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[11Dec2024 07:31:47.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[11Dec2024 07:31:47.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[11Dec2024 07:31:50.004] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-59, z=487}
+[11Dec2024 07:32:32.639] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-59, z=487}
+[11Dec2024 07:32:40.924] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[11Dec2024 07:32:40.925] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[11Dec2024 07:32:40.925] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[11Dec2024 07:33:35.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:683, y:69, z:515, dim:minecraft:overworld]
+[11Dec2024 07:34:04.210] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:34:04.212] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:34:04.216] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:34:04.218] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:34:04.423] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:34:04.427] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:34:04.429] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:34:04.431] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:34:04.434] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:34:09.557] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=577, y=-58, z=482}
+[11Dec2024 07:35:47.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
+[11Dec2024 07:35:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[11Dec2024 07:36:10.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[11Dec2024 07:36:11.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[11Dec2024 07:36:12.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[11Dec2024 07:36:13.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzzz
+[11Dec2024 07:36:14.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[11Dec2024 07:36:15.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[11Dec2024 07:36:16.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[11Dec2024 07:36:47.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[11Dec2024 07:36:47.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[11Dec2024 07:37:02.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> jungla diff
+[11Dec2024 07:38:49.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Mine? Mine? Mine?]
+[11Dec2024 07:39:52.505] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:39:52.507] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:39:52.519] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:39:52.520] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:40:14.035] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:40:14.037] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:40:14.038] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:40:14.038] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:40:14.039] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:40:14.049] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:40:14.049] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Dec2024 07:40:18.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Focke'/33413, l='ServerLevel[🗡No ties amigos?☠]', x=689.66, y=74.00, z=112.31] died, message: 'Focke (Staying) was slain by ADMIN'
+[11Dec2024 07:40:18.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Neighborhood Brawl]
+[11Dec2024 07:40:18.998] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Henrika}[style={}] has been infected
+[11Dec2024 07:41:09.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Mine? Mine? Mine?]
+[11Dec2024 07:41:47.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[11Dec2024 07:41:47.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[11Dec2024 07:42:58.964] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Dec2024 07:42:58.967] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[11Dec2024 07:42:58.970] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 water_bucket
+[11Dec2024 07:42:58.974] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[11Dec2024 07:42:58.974] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[11Dec2024 07:43:19.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. death.attack.mob.player
+[11Dec2024 07:43:19.648] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[11Dec2024 07:43:19.657] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[11Dec2024 07:43:40.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[11Dec2024 07:43:40.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[11Dec2024 07:43:48.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by MegaPig
+[11Dec2024 07:43:48.584] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[11Dec2024 07:43:48.590] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[11Dec2024 07:43:55.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by MegaPig
+[11Dec2024 07:43:55.491] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:684, y:65, z:179, dim:minecraft:overworld]
+[11Dec2024 07:44:19.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Knowledge of Death]
+[11Dec2024 07:44:19.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has reached the goal [Strong or Careful]
+[11Dec2024 07:44:19.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[11Dec2024 07:44:19.611] [Server thread/DEBUG] [tombstone/]: A new grave of the player ram was created at position [x:682, y:65, z:178, dim:minecraft:overworld]
+[11Dec2024 07:44:19.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Your First Grave]
+[11Dec2024 07:44:21.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [The Most Useful Key]
+[11Dec2024 07:44:26.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has reached the goal [A Fast Comeback]
+[11Dec2024 07:44:45.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Disconnected
+[11Dec2024 07:44:45.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[11Dec2024 07:44:51.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. %1$s was slain by %2$s
+[11Dec2024 07:44:51.933] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[11Dec2024 07:44:51.938] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[11Dec2024 07:45:51.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[11Dec2024 07:45:51.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[11Dec2024 07:45:51.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[11Dec2024 07:45:51.384] [Server thread/DEBUG] [tombstone/]: A new grave of the player ram was created at position [x:666, y:70, z:186, dim:minecraft:overworld]
+[11Dec2024 07:46:47.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[11Dec2024 07:46:47.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
