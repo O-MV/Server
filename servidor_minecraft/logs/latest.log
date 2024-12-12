@@ -201,3 +201,7 @@
 [12Dec2024 01:08:22.572] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [12Dec2024 01:08:22.574] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [12Dec2024 01:08:22.576] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 01:13:47.240] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cornelius'/1349, l='ServerLevel[🗡No ties amigos?☠]', x=766.80, y=63.00, z=108.03] died, message: 'Cornelius was shot by Pillager'
+[12Dec2024 01:13:47.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Cornelius'/1349, l='ServerLevel[🗡No ties amigos?☠]', x=766.80, y=63.00, z=108.03] died: Cornelius was shot by Pillager
+[12Dec2024 01:14:57.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Ashes 'n Bones]
+[12Dec2024 01:19:48.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Hot Stuff]
