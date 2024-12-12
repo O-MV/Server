@@ -2890,6 +2890,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-12 04:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-12 04:29:09 +0000"
