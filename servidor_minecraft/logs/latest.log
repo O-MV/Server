@@ -205,3 +205,17 @@
 [12Dec2024 01:13:47.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Cornelius'/1349, l='ServerLevel[🗡No ties amigos?☠]', x=766.80, y=63.00, z=108.03] died: Cornelius was shot by Pillager
 [12Dec2024 01:14:57.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Ashes 'n Bones]
 [12Dec2024 01:19:48.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Hot Stuff]
+[12Dec2024 01:23:29.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> tp ADMIN RAM
+[12Dec2024 01:23:41.715] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Edine}[style={}] has been infected
+[12Dec2024 01:24:09.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Dec2024 01:24:09.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TP ADMIN RAM<--[HERE]
+[12Dec2024 01:24:47.512] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Harm}[style={}] has been infected
+[12Dec2024 01:25:17.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Dec2024 01:25:17.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TP ADMIN ram<--[HERE]
+[12Dec2024 01:25:47.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
+[12Dec2024 01:26:20.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Christoffer'/1305, l='ServerLevel[🗡No ties amigos?☠]', x=765.40, y=61.27, z=44.15] died, message: 'Christoffer was impaled by Drowned'
+[12Dec2024 01:26:20.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Christoffer'/1305, l='ServerLevel[🗡No ties amigos?☠]', x=765.40, y=61.27, z=44.15] died: Christoffer was impaled by Drowned
+[12Dec2024 01:26:45.910] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Günther'/1306, l='ServerLevel[🗡No ties amigos?☠]', x=765.20, y=61.15, z=43.65] died, message: 'Günther was impaled by Drowned'
+[12Dec2024 01:26:45.911] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Günther'/1306, l='ServerLevel[🗡No ties amigos?☠]', x=765.20, y=61.15, z=43.65] died: Günther was impaled by Drowned
+[12Dec2024 01:26:49.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jakob'/1304, l='ServerLevel[🗡No ties amigos?☠]', x=767.51, y=61.15, z=42.49] died, message: 'Jakob was impaled by Drowned'
+[12Dec2024 01:26:49.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jakob'/1304, l='ServerLevel[🗡No ties amigos?☠]', x=767.51, y=61.15, z=42.49] died: Jakob was impaled by Drowned
