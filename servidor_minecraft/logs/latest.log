@@ -233,3 +233,4 @@
 [12Dec2024 01:46:28.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
 [12Dec2024 01:52:04.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
 [12Dec2024 01:52:04.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[12Dec2024 02:12:39.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Geelke'/16069, l='ServerLevel[🗡No ties amigos?☠]', x=721.03, y=61.00, z=90.97] died, message: 'Geelke drowned'
