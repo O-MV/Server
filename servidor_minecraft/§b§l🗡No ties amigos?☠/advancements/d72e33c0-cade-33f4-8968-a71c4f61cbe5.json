@@ -2725,6 +2725,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-12 01:05:57 +0000",
       "minecraft:spider": "2024-12-11 18:43:01 +0000",
+      "minecraft:creeper": "2024-12-12 02:30:37 +0000",
       "minecraft:stray": "2024-12-11 07:14:28 +0000",
       "minecraft:zombie": "2024-12-12 02:19:07 +0000"
     },
@@ -3672,6 +3673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-12 02:23:43 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/magnolia_fence": {
     "criteria": {
       "has_magnolia_planks": "2024-12-12 02:02:47 +0000"
@@ -3687,6 +3694,18 @@
   "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
     "criteria": {
       "has_magnolia_planks": "2024-12-12 02:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-12 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-12 02:23:43 +0000"
     },
     "done": true
   },
@@ -3729,6 +3748,12 @@
   "regions_unexplored:recipes/redstone/willow_door": {
     "criteria": {
       "has_willow_planks": "2024-12-12 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-12 02:23:43 +0000"
     },
     "done": true
   },
@@ -3849,6 +3874,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2024-12-12 02:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-12 02:23:43 +0000"
     },
     "done": true
   },

@@ -237,3 +237,16 @@
 [12Dec2024 02:18:14.524] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7db8c5b1[id=<null>,name=ADMIN,properties={},legacy=false] (/127.227.189.202:33623) lost connection: Disconnected
 [12Dec2024 02:20:37.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:57383] logged in with entity id 17158 at (840.8874999880791, 64.25, 72.69999998807907)
 [12Dec2024 02:20:37.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[12Dec2024 02:25:22.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[12Dec2024 02:25:22.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[12Dec2024 02:26:08.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:60749] logged in with entity id 18140 at (836.6999999880791, 64.0, 71.76024002292384)
+[12Dec2024 02:26:09.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[12Dec2024 02:32:13.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:44201] logged in with entity id 19161 at (690.3811861113192, 63.0, 35.02830392713055)
+[12Dec2024 02:32:13.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[12Dec2024 02:35:08.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Karola'/12345, l='ServerLevel[🗡No ties amigos?☠]', x=843.08, y=76.94, z=161.50] died, message: 'Karola was slain by Zombie'
+[12Dec2024 02:35:08.166] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Karola'/12345, l='ServerLevel[🗡No ties amigos?☠]', x=843.08, y=76.94, z=161.50] died: Karola was slain by Zombie
+[12Dec2024 02:35:41.912] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Sylke}[style={}] has been infected
+[12Dec2024 02:37:10.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> e
+[12Dec2024 02:37:21.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Isn't It Iron Pick]
+[12Dec2024 02:37:23.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> arriva las chivas
+[12Dec2024 02:39:50.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [They Have a Cave Troll!]
