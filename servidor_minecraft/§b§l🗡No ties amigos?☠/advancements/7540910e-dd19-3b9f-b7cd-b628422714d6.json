@@ -2056,6 +2056,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-11 06:46:49 +0000",
+      "minecraft:spider": "2024-12-12 04:57:13 +0000",
       "minecraft:zombified_piglin": "2024-12-12 03:00:30 +0000",
       "minecraft:wither_skeleton": "2024-12-12 03:01:55 +0000",
       "minecraft:piglin": "2024-12-12 03:06:58 +0000",
@@ -2841,6 +2842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-12 05:02:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
       "has_item": "2024-12-12 03:25:11 +0000"
@@ -2862,6 +2869,12 @@
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2024-12-12 03:38:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-12 04:56:26 +0000"
     },
     "done": true
   },
@@ -3035,6 +3048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-12 04:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-12 02:33:19 +0000"
@@ -3068,6 +3087,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-12 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-12 04:57:14 +0000"
     },
     "done": true
   },
@@ -3407,6 +3432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-12 04:57:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-12 04:44:50 +0000"
@@ -3434,6 +3465,12 @@
   "regions_unexplored:recipes/redstone/willow_fence_gate": {
     "criteria": {
       "has_willow_planks": "2024-12-12 02:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-12 04:57:14 +0000"
     },
     "done": true
   },
@@ -3581,6 +3618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-12 04:57:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-12 03:23:26 +0000"
@@ -3671,6 +3714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-12 04:57:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-12-12 03:38:01 +0000"
@@ -3740,6 +3789,12 @@
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2024-12-12 03:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-12 04:57:14 +0000"
     },
     "done": true
   },

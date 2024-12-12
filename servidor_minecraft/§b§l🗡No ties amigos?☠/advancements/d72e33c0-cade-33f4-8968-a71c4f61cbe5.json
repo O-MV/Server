@@ -4237,5 +4237,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-12 04:58:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
