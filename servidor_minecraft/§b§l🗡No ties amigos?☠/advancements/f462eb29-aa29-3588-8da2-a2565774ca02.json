@@ -5334,9 +5334,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-12 04:47:58 +0000"
+    },
+    "done": true
+  },
   "mca:friend": {
     "criteria": {
       "baby": "2024-12-12 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-12 04:51:03 +0000"
     },
     "done": true
   },
@@ -5373,6 +5385,12 @@
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2024-12-12 04:21:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 04:47:58 +0000"
     },
     "done": true
   },
@@ -5565,6 +5583,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-12 03:43:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-12 04:47:25 +0000"
     },
     "done": true
   },
