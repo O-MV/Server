@@ -683,3 +683,37 @@
 [12Dec2024 07:31:19.909] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [12Dec2024 07:31:19.909] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [12Dec2024 07:31:19.910] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:39:09.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. %1$s was slain by %2$s
+[12Dec2024 07:39:09.307] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[12Dec2024 07:39:09.359] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[12Dec2024 07:39:12.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! 18.89035741624832,3.6300948789691603,-13.285817148064552
+[12Dec2024 07:39:53.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by manu
+[12Dec2024 07:39:53.096] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[12Dec2024 07:39:53.117] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[12Dec2024 07:39:59.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was slain by manu
+[12Dec2024 07:40:09.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[12Dec2024 07:40:44.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
+[12Dec2024 07:40:54.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by ADMIN
+[12Dec2024 07:40:54.586] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[12Dec2024 07:40:54.612] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[12Dec2024 07:41:04.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by ADMIN
+[12Dec2024 07:41:28.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[12Dec2024 07:41:28.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[12Dec2024 07:43:13.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.124.47.124:51661] logged in with entity id 41724 at (932.3623275509492, 66.0, 154.4649639479777)
+[12Dec2024 07:43:13.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[12Dec2024 07:45:15.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[12Dec2024 07:45:15.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[12Dec2024 07:45:51.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[12Dec2024 07:45:51.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[12Dec2024 07:46:15.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Disconnected
+[12Dec2024 07:46:15.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[12Dec2024 07:46:15.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Dec2024 07:46:15.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Dec2024 07:46:15.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Dec2024 07:46:17.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[🗡No ties amigos?☠]'/minecraft:overworld
+[12Dec2024 07:46:17.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[🗡No ties amigos?☠]'/minecraft:the_nether
+[12Dec2024 07:46:17.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[🗡No ties amigos?☠]'/minecraft:the_end
+[12Dec2024 07:46:18.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (🗡No ties amigos?☠): All chunks are saved
+[12Dec2024 07:46:18.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Dec2024 07:46:18.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Dec2024 07:46:18.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
