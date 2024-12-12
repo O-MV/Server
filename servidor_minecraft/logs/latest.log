@@ -656,3 +656,8 @@
 [12Dec2024 06:51:30.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Richarda'/19907, l='ServerLevel[🗡No ties amigos?☠]', x=836.51, y=64.00, z=69.69] died: Richarda was slain by ram
 [12Dec2024 06:52:10.920] [Worker-Main-25/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [12Dec2024 06:52:11.060] [Worker-Main-25/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 06:57:46.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> zzzzzzzzzzzzzzzzzzzzzzzzzz
+[12Dec2024 06:58:06.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> tu pepera con la papaya
+[12Dec2024 06:58:41.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> zzzzzzzzzzzzzzzzzzzzzzzz
+[12Dec2024 06:58:44.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[12Dec2024 06:58:50.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Would you Like to Know More?]
