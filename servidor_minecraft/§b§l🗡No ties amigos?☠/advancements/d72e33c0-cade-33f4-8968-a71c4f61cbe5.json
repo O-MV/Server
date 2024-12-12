@@ -988,6 +988,7 @@
       "minecraft:beach": "2024-12-11 18:39:05 +0000",
       "minecraft:river": "2024-12-11 06:00:41 +0000",
       "minecraft:stony_shore": "2024-12-11 07:31:57 +0000",
+      "minecraft:cold_ocean": "2024-12-12 03:43:27 +0000",
       "minecraft:forest": "2024-12-11 18:37:55 +0000",
       "minecraft:lush_caves": "2024-12-11 06:26:30 +0000",
       "minecraft:jungle": "2024-12-11 06:30:09 +0000",
@@ -4131,6 +4132,12 @@
   "regions_unexplored:recipes/building_blocks/cobalt_slab": {
     "criteria": {
       "has_cobalt_planks": "2024-12-12 03:20:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-12 03:34:48 +0000"
     },
     "done": true
   },

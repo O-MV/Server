@@ -681,6 +681,7 @@
       "minecraft:beach": "2024-12-11 21:25:41 +0000",
       "minecraft:river": "2024-12-11 06:31:32 +0000",
       "minecraft:stony_shore": "2024-12-11 07:32:02 +0000",
+      "minecraft:cold_ocean": "2024-12-12 03:43:12 +0000",
       "minecraft:forest": "2024-12-11 07:40:44 +0000",
       "minecraft:lush_caves": "2024-12-11 06:34:40 +0000",
       "minecraft:jungle": "2024-12-11 05:56:46 +0000",
@@ -2110,6 +2111,7 @@
       "cooked_mutton": "2024-12-12 03:32:58 +0000",
       "sweet_berries": "2024-12-11 07:15:51 +0000",
       "cooked_beef": "2024-12-12 02:39:09 +0000",
+      "baked_potato": "2024-12-12 03:37:13 +0000",
       "porkchop": "2024-12-12 02:37:27 +0000",
       "bread": "2024-12-11 07:12:14 +0000",
       "rotten_flesh": "2024-12-11 06:41:53 +0000",
@@ -2851,6 +2853,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-12 03:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-12 03:02:36 +0000",
@@ -2937,6 +2945,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-12 03:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-12 02:33:19 +0000"
@@ -2985,6 +2999,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-12 03:38:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/willow_button": {
     "criteria": {
       "has_willow_planks": "2024-12-12 02:37:01 +0000"
@@ -2997,9 +3017,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-12 03:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-12 02:51:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-12 03:38:01 +0000"
     },
     "done": true
   },
@@ -3024,6 +3056,12 @@
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2024-12-12 02:56:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-12 03:38:01 +0000"
     },
     "done": true
   },
@@ -3081,6 +3119,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-12 03:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-12 02:48:37 +0000"
@@ -3111,6 +3155,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-12 03:44:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2024-12-12 02:33:55 +0000"
@@ -3123,9 +3173,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-12 03:38:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-12 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-12 03:38:01 +0000"
     },
     "done": true
   },
@@ -3237,6 +3299,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-12 03:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2024-12-12 03:23:26 +0000"
@@ -3270,6 +3338,12 @@
   "regions_unexplored:recipes/building_blocks/willow_slab": {
     "criteria": {
       "has_willow_planks": "2024-12-12 02:37:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-12 03:38:01 +0000"
     },
     "done": true
   },
