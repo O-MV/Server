@@ -56,6 +56,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2024-12-11 21:29:04 +0000",
+      "ancient_delta": "2024-12-12 06:42:09 +0000",
       "willow_forest": "2024-12-11 07:35:49 +0000",
       "grassy_beach": "2024-12-11 05:52:02 +0000",
       "scorching_caves": "2024-12-11 06:33:27 +0000",
@@ -680,6 +681,7 @@
     "criteria": {
       "minecraft:beach": "2024-12-11 21:25:41 +0000",
       "minecraft:river": "2024-12-11 06:31:32 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-12 06:13:44 +0000",
       "minecraft:stony_shore": "2024-12-11 07:32:02 +0000",
       "minecraft:cold_ocean": "2024-12-12 03:43:12 +0000",
       "minecraft:forest": "2024-12-11 07:40:44 +0000",
@@ -1893,7 +1895,8 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "scorching_caves": "2024-12-11 06:33:27 +0000",
-      "bioshroom_caves": "2024-12-11 06:13:20 +0000"
+      "bioshroom_caves": "2024-12-11 06:13:20 +0000",
+      "ancient_delta": "2024-12-12 06:42:09 +0000"
     },
     "done": false
   },
@@ -2057,6 +2060,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-11 06:46:49 +0000",
       "minecraft:spider": "2024-12-12 04:57:13 +0000",
+      "minecraft:creeper": "2024-12-12 06:18:44 +0000",
       "minecraft:zombified_piglin": "2024-12-12 03:00:30 +0000",
       "minecraft:wither_skeleton": "2024-12-12 03:01:55 +0000",
       "minecraft:piglin": "2024-12-12 03:06:58 +0000",
@@ -2117,7 +2121,8 @@
       "bread": "2024-12-11 07:12:14 +0000",
       "rotten_flesh": "2024-12-11 06:41:53 +0000",
       "glow_berries": "2024-12-11 06:35:48 +0000",
-      "cooked_chicken": "2024-12-11 06:29:53 +0000"
+      "cooked_chicken": "2024-12-11 06:29:53 +0000",
+      "carrot": "2024-12-12 06:37:04 +0000"
     },
     "done": false
   },
@@ -4434,6 +4439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-12 06:38:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-12 06:07:39 +0000"
@@ -4461,6 +4472,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-12 06:07:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-12 06:23:01 +0000"
     },
     "done": true
   },
@@ -4500,6 +4517,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-12 06:26:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-12 06:07:39 +0000"
@@ -4509,6 +4532,12 @@
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-12 06:07:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-12 06:26:47 +0000"
     },
     "done": true
   },
@@ -4536,6 +4565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-12 06:38:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-12 06:07:39 +0000"
@@ -4545,6 +4580,12 @@
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-12 06:07:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-12 06:23:01 +0000"
     },
     "done": true
   },
@@ -4578,6 +4619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 06:26:47 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-12 06:07:39 +0000"
@@ -4602,9 +4649,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 06:18:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-12 06:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-12 06:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 06:26:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-12-12 06:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 06:26:47 +0000"
     },
     "done": true
   },

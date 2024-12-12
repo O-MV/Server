@@ -613,3 +613,42 @@
 [12Dec2024 06:14:01.518] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [12Dec2024 06:14:14.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:51655] logged in with entity id 9418 at (426.7812563886575, 62.07326432466506, 441.99068499246556)
 [12Dec2024 06:14:14.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[12Dec2024 06:16:20.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Birgitt'/603, l='ServerLevel[🗡No ties amigos?☠]', x=156.72, y=61.56, z=593.36] died, message: 'Birgitt (Staying) was slain by ADMIN'
+[12Dec2024 06:16:20.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Birgitt'/603, l='ServerLevel[🗡No ties amigos?☠]', x=156.72, y=61.56, z=593.36] died: Birgitt (Staying) was slain by ADMIN
+[12Dec2024 06:16:53.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! -7.207089526572844,-7.0,-0.45564345780906024
+[12Dec2024 06:18:22.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Bone Crusher]
+[12Dec2024 06:18:31.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has completed the challenge [Hunted]
+[12Dec2024 06:22:48.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ADMIN) moved wrongly! 0.41865927032404215
+[12Dec2024 06:22:48.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ADMIN) moved wrongly! 0.8094929786477962
+[12Dec2024 06:22:48.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ADMIN) moved wrongly! 1.1814233683494422
+[12Dec2024 06:22:48.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ADMIN) moved wrongly! 1.5724113713103236
+[12Dec2024 06:22:48.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ADMIN) moved wrongly! 1.935937920824756
+[12Dec2024 06:22:48.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ADMIN) moved wrongly! 2.317947629942921
+[12Dec2024 06:22:48.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ADMIN) moved wrongly! 2.709119259246336
+[12Dec2024 06:29:34.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ram
+[12Dec2024 06:31:24.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[12Dec2024 06:34:25.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ram
+[12Dec2024 06:39:02.604] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jendrik'/15828, l='ServerLevel[🗡No ties amigos?☠]', x=725.67, y=85.00, z=218.40] died, message: 'Jendrik was slain by Zombie'
+[12Dec2024 06:39:02.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jendrik'/15828, l='ServerLevel[🗡No ties amigos?☠]', x=725.67, y=85.00, z=218.40] died: Jendrik was slain by Zombie
+[12Dec2024 06:39:04.574] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hendrick'/12448, l='ServerLevel[🗡No ties amigos?☠]', x=744.37, y=95.00, z=291.93] died, message: 'Hendrick was slain by ADMIN'
+[12Dec2024 06:39:04.574] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hendrick'/12448, l='ServerLevel[🗡No ties amigos?☠]', x=744.37, y=95.00, z=291.93] died: Hendrick was slain by ADMIN
+[12Dec2024 06:40:48.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Deke'/18925, l='ServerLevel[🗡No ties amigos?☠]', x=862.14, y=72.50, z=134.94] died, message: 'Deke suffocated in a wall'
+[12Dec2024 06:40:48.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Deke'/18925, l='ServerLevel[🗡No ties amigos?☠]', x=862.14, y=72.50, z=134.94] died: Deke suffocated in a wall
+[12Dec2024 06:42:11.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=866, y=81, z=165} BlockPos{x=867, y=79, z=165}
+[12Dec2024 06:42:11.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=866, y=81, z=165} BlockPos{x=867, y=79, z=165}
+[12Dec2024 06:42:13.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 11.393198360954898,-7.255611957483524,-11.007008892915053
+[12Dec2024 06:45:15.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. death.attack.mob.player
+[12Dec2024 06:45:15.504] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[12Dec2024 06:45:15.524] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[12Dec2024 06:45:23.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[12Dec2024 06:45:38.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! 10.21167570232896,-4.170485604351814,19.516636436866065
+[12Dec2024 06:45:39.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ram
+[12Dec2024 06:45:47.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram drowned
+[12Dec2024 06:45:47.060] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[12Dec2024 06:45:47.064] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[12Dec2024 06:45:48.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! 10.457261930901211,-7.6037173517344545,21.101754350127976
+[12Dec2024 06:45:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram drowned
+[12Dec2024 06:45:52.069] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[12Dec2024 06:45:57.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
+[12Dec2024 06:46:03.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[12Dec2024 06:46:24.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
