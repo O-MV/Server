@@ -661,3 +661,15 @@
 [12Dec2024 06:58:41.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> zzzzzzzzzzzzzzzzzzzzzzzz
 [12Dec2024 06:58:44.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
 [12Dec2024 06:58:50.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Would you Like to Know More?]
+[12Dec2024 07:10:45.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved wrongly!
+[12Dec2024 07:17:10.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -9.884372949208455,-2.0,-0.5101064259881696
+[12Dec2024 07:21:55.477] [Worker-Main-26/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:21:55.486] [Worker-Main-26/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:21:55.487] [Worker-Main-26/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:21:55.487] [Worker-Main-26/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:21:55.494] [Worker-Main-26/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:21:55.663] [Worker-Main-26/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:21:55.664] [Worker-Main-26/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:21:57.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[12Dec2024 07:23:42.958] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Ulpt}[style={}] has been infected
+[12Dec2024 07:26:52.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Book of Monsters]
