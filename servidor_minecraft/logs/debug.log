@@ -5786,3 +5786,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Dec2024 21:41:12.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
 [12Dec2024 21:46:12.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [12Dec2024 21:46:12.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[12Dec2024 21:51:12.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[12Dec2024 21:51:12.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[12Dec2024 21:56:12.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[12Dec2024 21:56:12.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
