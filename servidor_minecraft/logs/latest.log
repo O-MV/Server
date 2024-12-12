@@ -189,3 +189,15 @@
 [12Dec2024 00:49:20.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> duermase
 [12Dec2024 00:50:18.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> e wad
 [12Dec2024 01:02:19.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Diamonds!]
+[12Dec2024 01:05:47.765] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Cornelius}[style={}] has been infected
+[12Dec2024 01:07:23.315] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 01:07:23.321] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 01:07:23.325] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 01:07:23.329] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 01:07:23.565] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 01:08:22.397] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 01:08:22.399] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 01:08:22.401] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 01:08:22.572] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 01:08:22.574] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 01:08:22.576] [Worker-Main-21/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
