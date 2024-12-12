@@ -622,3 +622,6 @@
 [12Dec2024 04:11:06.815] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
 [12Dec2024 04:12:06.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by Dungeon Sentry
 [12Dec2024 04:13:40.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to manu
+[12Dec2024 04:25:29.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu fell from a high place
+[12Dec2024 04:25:29.122] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[12Dec2024 04:25:29.123] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
