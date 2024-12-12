@@ -6773,3 +6773,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Dec2024 07:26:52.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Book of Monsters]
 [12Dec2024 07:27:16.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [12Dec2024 07:27:16.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[12Dec2024 07:27:50.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -0.8231447949447102,1.711196609689651,-14.27203598085373
+[12Dec2024 07:31:19.893] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:31:19.894] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:31:19.895] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:31:19.895] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:31:19.895] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:31:19.908] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:31:19.909] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:31:19.909] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:31:19.910] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 07:32:16.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[12Dec2024 07:32:16.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[12Dec2024 07:37:16.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[12Dec2024 07:37:16.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
