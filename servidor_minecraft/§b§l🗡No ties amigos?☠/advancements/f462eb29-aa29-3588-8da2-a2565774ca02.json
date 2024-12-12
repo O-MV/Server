@@ -448,6 +448,7 @@
       "minecraft:beach": "2024-12-11 07:39:31 +0000",
       "minecraft:river": "2024-12-11 06:05:16 +0000",
       "minecraft:stony_shore": "2024-12-11 06:52:50 +0000",
+      "minecraft:cold_ocean": "2024-12-12 01:44:52 +0000",
       "minecraft:forest": "2024-12-11 07:40:17 +0000",
       "minecraft:lush_caves": "2024-12-11 06:13:57 +0000",
       "minecraft:jungle": "2024-12-11 05:53:56 +0000",
@@ -3841,6 +3842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-12 01:43:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:34 +0000"
@@ -3967,6 +3974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-12 01:43:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-12 01:37:03 +0000"
@@ -4069,6 +4082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-12 01:43:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-12-12 01:33:33 +0000"
@@ -4159,6 +4178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-12 01:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:34 +0000"
@@ -4186,6 +4211,12 @@
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2024-12-12 01:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-12 01:43:22 +0000"
     },
     "done": true
   },
@@ -4285,6 +4316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-12 01:43:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ashen_dirt_from_peat_dirt": {
     "criteria": {
       "has_ash": "2024-12-12 01:20:14 +0000"
@@ -4330,6 +4367,12 @@
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-12 01:43:22 +0000"
     },
     "done": true
   },
@@ -4405,6 +4448,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2024-12-12 01:43:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-12 01:33:33 +0000"
@@ -4468,6 +4517,12 @@
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-12 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-12 01:39:55 +0000"
     },
     "done": true
   },

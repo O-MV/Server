@@ -105,6 +105,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2024-12-12 01:39:58 +0000",
       "willow_log": "2024-12-12 01:39:15 +0000",
       "silver_birch_log": "2024-12-11 19:29:36 +0000",
       "redwood_log": "2024-12-11 05:54:49 +0000"
@@ -3562,12 +3563,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-12 01:17:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-12 01:09:53 +0000"
@@ -3577,6 +3572,24 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-12 01:09:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 01:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-12 01:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-12 01:17:43 +0000"
     },
     "done": true
   },
@@ -3598,15 +3611,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
     "criteria": {
-      "has_iron_block": "2024-12-12 01:17:43 +0000"
+      "has_logs": "2024-12-12 01:39:58 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
     "criteria": {
-      "coded_trigger": "2024-12-12 01:14:57 +0000"
+      "has_log": "2024-12-12 01:39:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2024-12-12 01:39:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2024-12-12 01:40:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_willow_planks": "2024-12-12 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_willow_planks": "2024-12-12 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_willow_planks": "2024-12-12 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_willow_planks": "2024-12-12 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_willow_planks": "2024-12-12 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_pressure_plate": {
+    "criteria": {
+      "has_willow_planks": "2024-12-12 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_willow_planks": "2024-12-12 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_willow_planks": "2024-12-12 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_willow_planks": "2024-12-12 01:46:56 +0000"
     },
     "done": true
   },

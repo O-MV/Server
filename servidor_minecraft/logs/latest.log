@@ -225,3 +225,11 @@
 [12Dec2024 01:43:00.235] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
 [12Dec2024 01:43:22.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram drowned
 [12Dec2024 01:43:22.042] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[12Dec2024 01:44:46.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> [x:1104, y:158, z:-6, dim:minecraft:overworld]
+[12Dec2024 01:45:34.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[12Dec2024 01:45:34.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[12Dec2024 01:45:58.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.124.47.124:38221] logged in with entity id 12205 at (837.7238235577191, 64.0, 71.06360330963837)
+[12Dec2024 01:45:58.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[12Dec2024 01:46:28.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
+[12Dec2024 01:52:04.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[12Dec2024 01:52:04.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
