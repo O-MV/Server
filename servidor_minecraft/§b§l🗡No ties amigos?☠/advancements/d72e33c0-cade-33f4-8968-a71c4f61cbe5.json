@@ -4225,5 +4225,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-12 04:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-12 04:33:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
