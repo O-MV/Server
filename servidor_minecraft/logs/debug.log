@@ -6101,3 +6101,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Dec2024 05:52:09.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to manu
 [12Dec2024 05:52:14.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [12Dec2024 05:52:14.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[12Dec2024 05:57:14.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[12Dec2024 05:57:14.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[12Dec2024 06:01:44.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! -8.696387249844747,5.490201299728163,-12.41509323730213
+[12Dec2024 06:02:14.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[12Dec2024 06:02:14.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[12Dec2024 06:03:22.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has reached the goal [Bone Crusher]
+[12Dec2024 06:03:23.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hennes'/860, l='ServerLevel[🗡No ties amigos?☠]', x=695.88, y=68.00, z=125.84] died, message: 'Hennes was slain by ADMIN'
+[12Dec2024 06:03:23.531] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hennes'/860, l='ServerLevel[🗡No ties amigos?☠]', x=695.88, y=68.00, z=125.84] died: Hennes was slain by ADMIN
+[12Dec2024 06:04:28.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 0.22603533022936517,-1.6849614129318837,-15.278982371619946
+[12Dec2024 06:05:17.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Claas'/832, l='ServerLevel[🗡No ties amigos?☠]', x=831.28, y=71.00, z=172.03] died, message: 'Claas was slain by Zombie'
+[12Dec2024 06:05:17.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Claas'/832, l='ServerLevel[🗡No ties amigos?☠]', x=831.28, y=71.00, z=172.03] died: Claas was slain by Zombie
+[12Dec2024 06:05:21.355] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Manuel}[style={}] has been infected
+[12Dec2024 06:05:26.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -5.8463487494161654,-1.4861166909854688,-18.237584682328574
