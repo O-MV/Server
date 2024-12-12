@@ -2727,6 +2727,7 @@
       "minecraft:skeleton": "2024-12-12 01:05:57 +0000",
       "minecraft:spider": "2024-12-11 18:43:01 +0000",
       "minecraft:creeper": "2024-12-12 02:30:37 +0000",
+      "minecraft:zombified_piglin": "2024-12-12 02:55:15 +0000",
       "minecraft:wither_skeleton": "2024-12-12 02:48:02 +0000",
       "minecraft:stray": "2024-12-11 07:14:28 +0000",
       "minecraft:zombie": "2024-12-12 02:19:07 +0000"
@@ -3639,6 +3640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:53:39 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_button": {
     "criteria": {
       "has_magnolia_planks": "2024-12-12 02:02:47 +0000"
@@ -3711,6 +3718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:53:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-12 02:23:43 +0000"
@@ -3726,6 +3739,12 @@
   "regions_unexplored:recipes/decorations/magnolia_fence": {
     "criteria": {
       "has_magnolia_planks": "2024-12-12 02:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:53:39 +0000"
     },
     "done": true
   },
@@ -3759,6 +3778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-12 02:53:39 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/willow_button": {
     "criteria": {
       "has_willow_planks": "2024-12-12 01:46:56 +0000"
@@ -3774,6 +3799,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-12 02:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:53:39 +0000"
     },
     "done": true
   },
@@ -3795,6 +3826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:53:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-12 02:04:51 +0000"
@@ -3813,9 +3850,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-12 02:53:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-12 02:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-12 02:53:39 +0000"
     },
     "done": true
   },
@@ -3828,6 +3877,12 @@
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-12 02:23:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2024-12-12 02:53:39 +0000"
     },
     "done": true
   },
@@ -3996,6 +4051,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-12 02:47:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-12 02:53:39 +0000"
     },
     "done": true
   },

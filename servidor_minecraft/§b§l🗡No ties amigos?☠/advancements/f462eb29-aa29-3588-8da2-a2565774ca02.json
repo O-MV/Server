@@ -260,6 +260,7 @@
     "criteria": {
       "willow_log": "2024-12-11 22:06:30 +0000",
       "small_oak_log": "2024-12-11 22:49:17 +0000",
+      "cobalt_log": "2024-12-12 02:50:41 +0000",
       "redwood_log": "2024-12-11 05:52:48 +0000"
     },
     "done": false
@@ -448,6 +449,7 @@
     "criteria": {
       "minecraft:beach": "2024-12-11 07:39:31 +0000",
       "minecraft:river": "2024-12-11 06:05:16 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-12 02:56:36 +0000",
       "minecraft:stony_shore": "2024-12-11 06:52:50 +0000",
       "minecraft:cold_ocean": "2024-12-12 01:44:52 +0000",
       "minecraft:forest": "2024-12-11 07:40:17 +0000",
@@ -904,6 +906,7 @@
       "minecraft:spider": "2024-12-12 01:19:45 +0000",
       "minecraft:creeper": "2024-12-12 01:05:28 +0000",
       "minecraft:zombified_piglin": "2024-12-12 02:47:01 +0000",
+      "minecraft:wither_skeleton": "2024-12-12 02:49:37 +0000",
       "minecraft:stray": "2024-12-11 07:16:06 +0000",
       "minecraft:zombie": "2024-12-11 05:58:04 +0000"
     },
@@ -4876,9 +4879,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-12 02:49:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-12-12 02:47:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cobalt_stairs": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
     },
     "done": true
   },
@@ -4894,9 +4909,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/cobalt_button": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-12 02:47:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 02:56:43 +0000"
     },
     "done": true
   },
@@ -4909,6 +4936,12 @@
   "iceandfire:recipes/combat/forest_troll_leather_boots": {
     "criteria": {
       "has_item": "2024-12-12 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_pressure_plate": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
     },
     "done": true
   },
@@ -4942,9 +4975,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/cobalt_trapdoor": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 02:56:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
     "criteria": {
       "has_item": "2024-12-12 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cobalt_fence": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
     },
     "done": true
   },
@@ -4960,6 +5011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-12 02:49:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2024-12-12 02:39:50 +0000"
@@ -4972,15 +5029,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/cobalt_fence_gate": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cobalt_planks": {
+    "criteria": {
+      "has_logs": "2024-12-12 02:50:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 02:57:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-12 02:47:07 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/cobalt_sign": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-12 02:47:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_door": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
     },
     "done": true
   },
@@ -4996,9 +5083,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/cobalt_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 02:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-12 02:47:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cobalt_slab": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
     },
     "done": true
   },
