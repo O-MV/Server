@@ -381,3 +381,84 @@
 [12Dec2024 03:03:29.313] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
 [12Dec2024 03:03:29.318] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
 [12Dec2024 03:03:35.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[12Dec2024 03:04:21.490] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:21.701] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:39.523] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:39.524] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:39.592] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:39.638] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:39.726] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:39.727] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:39.727] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:39.727] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:41.890] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:41.929] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:41.929] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:41.930] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:41.930] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:41.953] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:41.954] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:04:41.994] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:06:17.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Mycologist]
+[12Dec2024 03:07:09.921] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:09.925] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:10.048] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:13.701] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:13.702] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:18.053] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:18.054] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:18.056] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:20.633] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:20.641] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:22.802] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:22.820] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:23.397] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:23.398] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:35.923] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:35.926] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:35.930] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:35.991] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:57.140] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:57.141] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:57.200] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:07:57.201] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:08:01.130] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:08:01.131] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:08:01.137] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:08:01.179] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:08:01.179] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:09:53.490] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:09:53.491] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:09:53.491] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:09:53.491] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:09:54.126] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 03:09:57.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
+[12Dec2024 03:15:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> arriva las chivas
+[12Dec2024 03:16:09.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -10.216057944868794,1.044812420399012,1.3878475039820728
+[12Dec2024 03:16:13.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN was kicked for floating too long!
+[12Dec2024 03:16:13.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Flying is not enabled on this server
+[12Dec2024 03:16:13.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[12Dec2024 03:16:38.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:40961] logged in with entity id 34001 at (765.9574473511085, 64.00133597911214, 41.118561939925904)
+[12Dec2024 03:16:38.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[12Dec2024 03:17:00.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Would you Like to Know More?]
+[12Dec2024 03:17:27.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=818, y=62, z=11} BlockPos{x=819, y=62, z=11}
+[12Dec2024 03:18:13.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=821, y=62, z=0} BlockPos{x=821, y=62, z=1}
+[12Dec2024 03:18:14.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=823, y=62, z=-1} BlockPos{x=823, y=62, z=0}
+[12Dec2024 03:19:18.947] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Erik'/31903, l='ServerLevel[🗡No ties amigos?☠]', x=836.44, y=65.00, z=72.79] died, message: 'Erik was slain by ram'
+[12Dec2024 03:19:18.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Erik'/31903, l='ServerLevel[🗡No ties amigos?☠]', x=836.44, y=65.00, z=72.79] died: Erik was slain by ram
+[12Dec2024 03:19:23.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Olga'/31917, l='ServerLevel[🗡No ties amigos?☠]', x=845.09, y=64.56, z=67.65] died, message: 'Olga was slain by manu'
+[12Dec2024 03:19:23.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Olga'/31917, l='ServerLevel[🗡No ties amigos?☠]', x=845.09, y=64.56, z=67.65] died: Olga was slain by manu
+[12Dec2024 03:21:04.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=828, y=62, z=-7} BlockPos{x=827, y=62, z=-7}
+[12Dec2024 03:21:10.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=832, y=62, z=-10} BlockPos{x=832, y=62, z=-9}
+[12Dec2024 03:21:15.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=835, y=62, z=-9} BlockPos{x=834, y=62, z=-9}
+[12Dec2024 03:23:38.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[12Dec2024 03:23:38.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[12Dec2024 03:25:51.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.124.47.124:51591] logged in with entity id 36935 at (837.5321736695112, 65.0, 69.95500727747529)
+[12Dec2024 03:25:51.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[12Dec2024 03:28:23.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Friendship Found]
+[12Dec2024 03:32:12.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. %1$s was slain by %2$s
+[12Dec2024 03:32:12.263] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[12Dec2024 03:32:12.274] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[12Dec2024 03:34:09.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. %1$s was slain by %2$s
+[12Dec2024 03:34:09.910] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[12Dec2024 03:34:09.919] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved

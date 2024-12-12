@@ -60,8 +60,10 @@
       "scorching_caves": "2024-12-12 01:20:12 +0000",
       "blackwood_taiga": "2024-12-11 06:55:10 +0000",
       "rocky_meadow": "2024-12-11 21:28:46 +0000",
+      "mycotoxic_undergrowth": "2024-12-12 03:04:26 +0000",
       "magnolia_highlands": "2024-12-11 06:51:51 +0000",
       "blackstone_basin": "2024-12-12 02:46:37 +0000",
+      "infernal_holt": "2024-12-12 03:00:26 +0000",
       "temperate_grove": "2024-12-11 06:52:18 +0000",
       "redwoods": "2024-12-11 05:52:35 +0000",
       "bioshroom_caves": "2024-12-11 06:13:30 +0000",
@@ -259,6 +261,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "willow_log": "2024-12-11 22:06:30 +0000",
+      "yellow_bioshroom_stem": "2024-12-12 03:04:28 +0000",
       "small_oak_log": "2024-12-11 22:49:17 +0000",
       "cobalt_log": "2024-12-12 02:50:41 +0000",
       "redwood_log": "2024-12-11 05:52:48 +0000"
@@ -907,6 +910,7 @@
       "minecraft:creeper": "2024-12-12 01:05:28 +0000",
       "minecraft:zombified_piglin": "2024-12-12 02:47:01 +0000",
       "minecraft:wither_skeleton": "2024-12-12 02:49:37 +0000",
+      "minecraft:piglin": "2024-12-12 03:00:54 +0000",
       "minecraft:stray": "2024-12-11 07:16:06 +0000",
       "minecraft:zombie": "2024-12-11 05:58:04 +0000"
     },
@@ -932,6 +936,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-12 03:16:52 +0000",
       "cooked_mutton": "2024-12-11 06:46:39 +0000",
       "cooked_beef": "2024-12-11 07:14:44 +0000",
       "beef": "2024-12-11 07:14:00 +0000",
@@ -1681,11 +1686,12 @@
   },
   "regions_unexplored:mycologist": {
     "criteria": {
+      "yellow_bioshroom": "2024-12-12 03:06:17 +0000",
       "blue_bioshroom": "2024-12-11 06:13:51 +0000",
       "green_bioshroom": "2024-12-11 06:13:48 +0000",
       "pink_bioshroom": "2024-12-11 06:15:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
     "criteria": {
@@ -4879,57 +4885,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "regions_unexplored:recipes/misc/willow_sapling_from_willow_shrub": {
     "criteria": {
-      "has_golden_chestplate": "2024-12-12 02:49:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2024-12-12 02:47:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/cobalt_stairs": {
-    "criteria": {
-      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:eternal_expedition": {
-    "criteria": {
-      "blackstone_basin": "2024-12-12 02:46:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-12-12 02:47:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/cobalt_button": {
-    "criteria": {
-      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-12-12 02:47:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2024-12-12 02:56:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-12-12 02:47:07 +0000"
+      "has_willow_shrub": "2024-12-12 02:39:46 +0000"
     },
     "done": true
   },
@@ -4939,9 +4897,71 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/cobalt_pressure_plate": {
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
     "criteria": {
-      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+      "has_item": "2024-12-12 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-12 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-12 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-12 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-12 02:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-12 02:46:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2024-12-12 03:04:26 +0000",
+      "blackstone_basin": "2024-12-12 02:46:37 +0000",
+      "infernal_holt": "2024-12-12 03:00:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-12 02:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-12 02:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-12 02:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-12 02:47:07 +0000"
     },
     "done": true
   },
@@ -4957,12 +4977,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
-    "criteria": {
-      "has_item": "2024-12-12 02:39:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-12 02:47:07 +0000"
@@ -4975,75 +4989,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/cobalt_trapdoor": {
-    "criteria": {
-      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2024-12-12 02:56:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-12 02:39:50 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/cobalt_fence": {
-    "criteria": {
-      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/willow_sapling_from_willow_shrub": {
-    "criteria": {
-      "has_willow_shrub": "2024-12-12 02:39:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-12 02:47:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_chestplate": "2024-12-12 02:49:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2024-12-12 02:39:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-12 02:46:36 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/cobalt_fence_gate": {
-    "criteria": {
-      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/cobalt_planks": {
-    "criteria": {
-      "has_logs": "2024-12-12 02:50:41 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2024-12-12 02:57:27 +0000"
     },
     "done": true
   },
@@ -5053,21 +5001,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/cobalt_sign": {
-    "criteria": {
-      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-12 02:47:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/cobalt_door": {
-    "criteria": {
-      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
     },
     "done": true
   },
@@ -5077,27 +5013,9 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-12 02:46:36 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/cobalt_wood": {
-    "criteria": {
-      "has_log": "2024-12-12 02:50:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-12 02:47:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/cobalt_slab": {
-    "criteria": {
-      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
     },
     "done": true
   },
@@ -5119,15 +5037,292 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2024-12-12 02:39:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-12 02:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-12 02:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-12 02:49:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cobalt_planks": {
+    "criteria": {
+      "has_logs": "2024-12-12 02:50:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cobalt_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 02:50:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cobalt_stairs": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_button": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_pressure_plate": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_trapdoor": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cobalt_fence": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_fence_gate": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cobalt_sign": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_door": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cobalt_slab": {
+    "criteria": {
+      "has_cobalt_planks": "2024-12-12 02:50:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 02:56:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 02:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-12 03:00:18 +0000",
+      "minecraft:soul_sand_valley": "2024-12-12 03:01:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-12 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2024-12-12 03:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-12 03:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-12 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-12 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-12 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-12 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-12 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-12 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-12 03:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-12 03:02:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_planks": {
+    "criteria": {
+      "has_logs": "2024-12-12 03:04:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-12 03:04:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:ancient_specimens": {
+    "criteria": {
+      "yellow_bioshroom_stem": "2024-12-12 03:04:28 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_trapdoor": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-12 03:04:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_pressure_plate": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-12 03:04:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_stairs": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-12 03:04:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_door": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-12 03:04:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_slab": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-12 03:04:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_button": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-12 03:04:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/yellow_bioshroom_sign": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-12 03:04:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/yellow_bioshroom_fence": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-12 03:04:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_fence_gate": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-12 03:04:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-12-12 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-12-12 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/glowing_yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom_block": "2024-12-12 03:08:38 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2024-12-12 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-12 03:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-12 03:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-12 03:20:04 +0000"
     },
     "done": true
   },
