@@ -219,3 +219,9 @@
 [12Dec2024 01:26:45.911] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Günther'/1306, l='ServerLevel[🗡No ties amigos?☠]', x=765.20, y=61.15, z=43.65] died: Günther was impaled by Drowned
 [12Dec2024 01:26:49.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jakob'/1304, l='ServerLevel[🗡No ties amigos?☠]', x=767.51, y=61.15, z=42.49] died, message: 'Jakob was impaled by Drowned'
 [12Dec2024 01:26:49.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jakob'/1304, l='ServerLevel[🗡No ties amigos?☠]', x=767.51, y=61.15, z=42.49] died: Jakob was impaled by Drowned
+[12Dec2024 01:39:55.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Enchanter]
+[12Dec2024 01:43:00.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram tried to swim in lava
+[12Dec2024 01:43:00.227] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[12Dec2024 01:43:00.235] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[12Dec2024 01:43:22.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram drowned
+[12Dec2024 01:43:22.042] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved

@@ -6121,3 +6121,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Dec2024 01:26:49.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jakob'/1304, l='ServerLevel[🗡No ties amigos?☠]', x=767.51, y=61.15, z=42.49] died: Jakob was impaled by Drowned
 [12Dec2024 01:29:24.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [12Dec2024 01:29:24.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[12Dec2024 01:34:24.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[12Dec2024 01:34:24.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[12Dec2024 01:39:24.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[12Dec2024 01:39:24.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[12Dec2024 01:39:55.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Enchanter]
+[12Dec2024 01:43:00.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram tried to swim in lava
+[12Dec2024 01:43:00.227] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[12Dec2024 01:43:00.235] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[12Dec2024 01:43:22.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram drowned
+[12Dec2024 01:43:22.033] [Server thread/DEBUG] [tombstone/]: A new grave of the player ram was created at position [x:876, y:51, z:29, dim:minecraft:overworld]
+[12Dec2024 01:43:22.042] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved

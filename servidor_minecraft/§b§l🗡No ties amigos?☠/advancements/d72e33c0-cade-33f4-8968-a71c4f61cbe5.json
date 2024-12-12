@@ -105,6 +105,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "willow_log": "2024-12-12 01:39:15 +0000",
       "silver_birch_log": "2024-12-11 19:29:36 +0000",
       "redwood_log": "2024-12-11 05:54:49 +0000"
     },
@@ -3576,6 +3577,24 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-12 01:09:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
+    "criteria": {
+      "has_log": "2024-12-12 01:39:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 01:39:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2024-12-12 01:39:15 +0000"
     },
     "done": true
   },
