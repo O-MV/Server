@@ -55,6 +55,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2024-12-12 05:07:18 +0000",
       "willow_forest": "2024-12-11 07:31:58 +0000",
       "grassy_beach": "2024-12-11 05:52:05 +0000",
       "scorching_caves": "2024-12-12 01:20:12 +0000",
@@ -73,6 +74,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2024-12-12 05:07:18 +0000",
       "willow_forest": "2024-12-11 07:31:58 +0000",
       "grassy_beach": "2024-12-11 05:52:05 +0000",
       "blackwood_taiga": "2024-12-11 06:55:10 +0000",
@@ -5376,6 +5378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 05:22:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-12 04:21:07 +0000"
@@ -5439,6 +5447,12 @@
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2024-12-12 04:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-12 05:22:54 +0000"
     },
     "done": true
   },
@@ -5553,6 +5567,12 @@
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-12 04:21:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2024-12-12 05:22:54 +0000"
     },
     "done": true
   },

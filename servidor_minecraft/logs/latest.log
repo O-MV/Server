@@ -793,3 +793,19 @@
 [12Dec2024 04:58:32.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Who You Gonna Call?]
 [12Dec2024 04:58:51.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> puto el ameria
 [12Dec2024 05:06:01.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! -3.6743146885488613,0.7627670060079339,21.059139549966304
+[12Dec2024 05:10:24.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[12Dec2024 05:10:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ram
+[12Dec2024 05:10:49.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! -15.848825666148173,3.5931640297001053,-17.964651979977823
+[12Dec2024 05:11:24.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
+[12Dec2024 05:11:55.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ram
+[12Dec2024 05:12:00.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ram
+[12Dec2024 05:12:03.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ram
+[12Dec2024 05:12:20.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[12Dec2024 05:13:26.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[12Dec2024 05:14:21.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Best Friends Forever]
+[12Dec2024 05:18:13.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! 8.887137041641154,-5.0,-1.01883028100832
+[12Dec2024 05:19:45.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3308ms or 66 ticks behind
+[12Dec2024 05:22:30.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Zombie
+[12Dec2024 05:22:30.868] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[12Dec2024 05:22:30.876] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[12Dec2024 05:23:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was slain by Zombie
