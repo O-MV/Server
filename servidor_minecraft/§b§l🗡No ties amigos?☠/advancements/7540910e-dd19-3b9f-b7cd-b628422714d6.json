@@ -62,6 +62,7 @@
       "blackwood_taiga": "2024-12-11 07:08:36 +0000",
       "rocky_meadow": "2024-12-11 21:27:32 +0000",
       "magnolia_highlands": "2024-12-11 07:30:12 +0000",
+      "blackstone_basin": "2024-12-12 02:48:37 +0000",
       "temperate_grove": "2024-12-11 07:31:55 +0000",
       "redwoods": "2024-12-11 05:52:51 +0000",
       "bioshroom_caves": "2024-12-11 06:13:20 +0000",
@@ -2851,6 +2852,12 @@
     },
     "done": true
   },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "blackstone_basin": "2024-12-12 02:48:37 +0000"
+    },
+    "done": false
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2024-12-12 02:33:55 +0000"
@@ -2917,6 +2924,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-12 02:48:37 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2024-12-12 02:33:55 +0000"
@@ -2962,6 +2975,18 @@
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2024-12-12 02:33:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-12 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-12 02:48:37 +0000"
     },
     "done": true
   },
