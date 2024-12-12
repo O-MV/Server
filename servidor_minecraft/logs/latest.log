@@ -234,3 +234,6 @@
 [12Dec2024 01:52:04.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
 [12Dec2024 01:52:04.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
 [12Dec2024 02:12:39.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Geelke'/16069, l='ServerLevel[🗡No ties amigos?☠]', x=721.03, y=61.00, z=90.97] died, message: 'Geelke drowned'
+[12Dec2024 02:18:14.524] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7db8c5b1[id=<null>,name=ADMIN,properties={},legacy=false] (/127.227.189.202:33623) lost connection: Disconnected
+[12Dec2024 02:20:37.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:57383] logged in with entity id 17158 at (840.8874999880791, 64.25, 72.69999998807907)
+[12Dec2024 02:20:37.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
