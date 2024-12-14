@@ -6295,3 +6295,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 03:22:51.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
 [14Dec2024 03:27:46.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [14Dec2024 03:27:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rp ram manu<--[HERE]
+[14Dec2024 03:27:51.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[14Dec2024 03:27:51.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[14Dec2024 03:28:01.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Dec2024 03:28:01.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ttp ram manu<--[HERE]
+[14Dec2024 03:29:12.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Shiny shiny stones]
+[14Dec2024 03:29:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> e
+[14Dec2024 03:29:42.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> arriva las chivas
+[14Dec2024 03:29:58.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> arriva el amerika
+[14Dec2024 03:30:10.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
+[14Dec2024 03:32:51.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[14Dec2024 03:32:51.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[14Dec2024 03:37:51.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[14Dec2024 03:37:51.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
