@@ -5778,3 +5778,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 01:33:30.446] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
 [14Dec2024 01:34:56.040] [Server thread/DEBUG] [mixin/]: Mixing BeehiveBlockEntity$BeeDataAccess from wthit.mixins.json into net.minecraft.world.level.block.entity.BeehiveBlockEntity$BeeData
 [14Dec2024 01:34:56.041] [Server thread/DEBUG] [mixin/]: wthit.mixins.json:BeehiveBlockEntity$BeeDataAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[14Dec2024 01:37:32.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram fell from a high place
+[14Dec2024 01:37:32.799] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[14Dec2024 01:37:32.885] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[14Dec2024 01:37:45.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[14Dec2024 01:37:45.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[14Dec2024 01:38:32.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram fell from a high place
+[14Dec2024 01:38:32.756] [Server thread/DEBUG] [tombstone/]: A new grave of the player ram was created at position [x:943, y:14, z:18, dim:minecraft:overworld]
+[14Dec2024 01:42:45.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[14Dec2024 01:42:45.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
