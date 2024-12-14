@@ -6287,3 +6287,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 03:12:51.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
 [14Dec2024 03:14:56.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> tp ADMIN ram
 [14Dec2024 03:15:40.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
+[14Dec2024 03:17:51.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[14Dec2024 03:17:51.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[14Dec2024 03:19:31.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sophia'/26089, l='ServerLevel[🗡No ties amigos?☠]', x=805.96, y=93.00, z=209.92] died, message: 'Sophia suffocated in a wall'
+[14Dec2024 03:19:31.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sophia'/26089, l='ServerLevel[🗡No ties amigos?☠]', x=805.96, y=93.00, z=209.92] died: Sophia suffocated in a wall
+[14Dec2024 03:22:51.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[14Dec2024 03:22:51.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[14Dec2024 03:27:46.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Dec2024 03:27:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rp ram manu<--[HERE]

@@ -205,3 +205,7 @@
 [14Dec2024 03:09:15.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1006, y=64, z=183} BlockPos{x=1007, y=63, z=183}
 [14Dec2024 03:14:56.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> tp ADMIN ram
 [14Dec2024 03:15:40.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
+[14Dec2024 03:19:31.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sophia'/26089, l='ServerLevel[🗡No ties amigos?☠]', x=805.96, y=93.00, z=209.92] died, message: 'Sophia suffocated in a wall'
+[14Dec2024 03:19:31.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sophia'/26089, l='ServerLevel[🗡No ties amigos?☠]', x=805.96, y=93.00, z=209.92] died: Sophia suffocated in a wall
+[14Dec2024 03:27:46.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Dec2024 03:27:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rp ram manu<--[HERE]
