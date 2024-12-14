@@ -2742,6 +2742,7 @@
       "minecraft:creeper": "2024-12-12 02:30:37 +0000",
       "minecraft:zombified_piglin": "2024-12-12 02:55:15 +0000",
       "minecraft:wither_skeleton": "2024-12-12 02:48:02 +0000",
+      "minecraft:cave_spider": "2024-12-14 05:05:20 +0000",
       "minecraft:stray": "2024-12-11 07:14:28 +0000",
       "minecraft:zombie": "2024-12-12 02:19:07 +0000",
       "minecraft:drowned": "2024-12-14 01:40:20 +0000"
@@ -5826,6 +5827,24 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-14 04:46:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 05:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 05:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 05:03:11 +0000"
     },
     "done": true
   },
