@@ -182,3 +182,4 @@
 [14Dec2024 01:38:32.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram fell from a high place
 [14Dec2024 01:54:36.949] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ute'/3558, l='ServerLevel[🗡No ties amigos?☠]', x=804.77, y=11.00, z=162.71] died, message: 'Ute burned to death'
 [14Dec2024 01:54:36.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ute'/3558, l='ServerLevel[🗡No ties amigos?☠]', x=804.77, y=11.00, z=162.71] died: Ute burned to death
+[14Dec2024 02:04:52.788] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/5282, l='ServerLevel[🗡No ties amigos?☠]', x=961.50, y=60.00, z=-60.50]
