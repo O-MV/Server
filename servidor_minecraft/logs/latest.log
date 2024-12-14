@@ -274,3 +274,6 @@
 [14Dec2024 05:26:46.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mi-Hee'/12066, l='ServerLevel[🗡No ties amigos?☠]', x=1065.29, y=76.00, z=378.63] died: Mi-Hee (Following) was blown up by Creeper
 [14Dec2024 05:26:46.213] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Man'/12060, l='ServerLevel[🗡No ties amigos?☠]', x=1064.57, y=76.00, z=378.87] died, message: 'Man (Following) was blown up by Creeper'
 [14Dec2024 05:26:46.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Man'/12060, l='ServerLevel[🗡No ties amigos?☠]', x=1064.57, y=76.00, z=378.87] died: Man (Following) was blown up by Creeper
+[14Dec2024 05:33:12.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was blown up by Creeper
+[14Dec2024 05:33:12.267] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[14Dec2024 05:33:12.299] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
