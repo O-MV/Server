@@ -191,3 +191,8 @@
 [14Dec2024 02:32:40.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
 [14Dec2024 02:34:07.593] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kai'/10105, l='ServerLevel[🗡No ties amigos?☠]', x=814.83, y=34.17, z=185.82] died, message: 'Kai tried to swim in lava'
 [14Dec2024 02:34:07.596] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kai'/10105, l='ServerLevel[🗡No ties amigos?☠]', x=814.83, y=34.17, z=185.82] died: Kai tried to swim in lava
+[14Dec2024 02:37:02.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:55647] logged in with entity id 11450 at (780.998609227574, 67.0, 153.70027142831472)
+[14Dec2024 02:37:02.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[14Dec2024 02:40:45.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3545ms or 70 ticks behind
+[14Dec2024 02:45:11.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ina'/14218, l='ServerLevel[🗡No ties amigos?☠]', x=807.93, y=84.00, z=192.18] died, message: 'Ina was slain by Zombie'
+[14Dec2024 02:45:11.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ina'/14218, l='ServerLevel[🗡No ties amigos?☠]', x=807.93, y=84.00, z=192.18] died: Ina was slain by Zombie
