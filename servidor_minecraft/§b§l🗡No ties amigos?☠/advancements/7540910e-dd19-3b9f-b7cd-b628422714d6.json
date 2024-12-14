@@ -2195,6 +2195,7 @@
   },
   "regions_unexplored:mycologist": {
     "criteria": {
+      "yellow_bioshroom": "2024-12-14 05:56:46 +0000",
       "blue_bioshroom": "2024-12-11 06:34:41 +0000"
     },
     "done": false
@@ -5433,6 +5434,18 @@
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2024-12-14 04:55:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-12-14 05:56:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-12-14 05:56:46 +0000"
     },
     "done": true
   },
