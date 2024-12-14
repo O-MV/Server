@@ -312,3 +312,26 @@
 [14Dec2024 07:07:16.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to manu
 [14Dec2024 07:10:32.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement ['Til Death Do Us Part]
 [14Dec2024 07:11:07.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Next Generation]
+[14Dec2024 07:14:34.255] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Henrika}[style={}] has been infected
+[14Dec2024 07:14:56.978] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Henrika'/48661, l='ServerLevel[🗡No ties amigos?☠]', x=849.66, y=64.25, z=83.32] died, message: 'Henrika was slain by ram'
+[14Dec2024 07:14:56.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Henrika'/48661, l='ServerLevel[🗡No ties amigos?☠]', x=849.66, y=64.25, z=83.32] died: Henrika was slain by ram
+[14Dec2024 07:15:41.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram was kicked for floating too long!
+[14Dec2024 07:15:41.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Flying is not enabled on this server
+[14Dec2024 07:15:41.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[14Dec2024 07:16:44.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Chores]
+[14Dec2024 07:18:48.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Zombified Piglin
+[14Dec2024 07:18:48.064] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[14Dec2024 07:18:48.071] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[14Dec2024 07:19:20.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[14Dec2024 07:19:46.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.124.47.124:49645] logged in with entity id 51858 at (828.6959859726554, 64.25220334025373, 50.254787356168904)
+[14Dec2024 07:19:46.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[14Dec2024 07:22:38.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to manu
+[14Dec2024 07:23:26.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Zombified Piglin
+[14Dec2024 07:23:26.243] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[14Dec2024 07:23:26.276] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[14Dec2024 07:24:53.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
+[14Dec2024 07:25:24.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Best Friends Forever]
+[14Dec2024 07:33:25.258] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[14Dec2024 07:33:25.259] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[14Dec2024 07:43:03.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[14Dec2024 07:43:03.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game

@@ -5161,7 +5161,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-12 03:00:18 +0000",
-      "minecraft:soul_sand_valley": "2024-12-12 03:01:52 +0000"
+      "minecraft:soul_sand_valley": "2024-12-12 03:01:52 +0000",
+      "minecraft:nether_wastes": "2024-12-14 07:22:38 +0000"
     },
     "done": false
   },
@@ -6119,9 +6120,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-14 07:23:03 +0000"
+    },
+    "done": true
+  },
+  "mca:chores": {
+    "criteria": {
+      "baby": "2024-12-14 07:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-14 07:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-14 07:23:47 +0000"
+    },
+    "done": true
+  },
   "mca:baby": {
     "criteria": {
       "baby": "2024-12-14 07:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-14 07:23:03 +0000"
     },
     "done": true
   },
