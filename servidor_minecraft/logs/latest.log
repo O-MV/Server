@@ -216,3 +216,6 @@
 [14Dec2024 03:29:42.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> arriva las chivas
 [14Dec2024 03:29:58.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> arriva el amerika
 [14Dec2024 03:30:10.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
+[14Dec2024 03:53:19.819] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Rupert}[style={}] has been infected
+[14Dec2024 03:53:30.253] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rupert'/23968, l='ServerLevel[🗡No ties amigos?☠]', x=742.04, y=68.00, z=128.54] died, message: 'Rupert was slain by Zombie'
+[14Dec2024 03:53:30.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rupert'/23968, l='ServerLevel[🗡No ties amigos?☠]', x=742.04, y=68.00, z=128.54] died: Rupert was slain by Zombie
