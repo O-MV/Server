@@ -259,3 +259,18 @@
 [14Dec2024 05:02:04.137] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [14Dec2024 05:08:42.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Soon'/6172, l='ServerLevel[🗡No ties amigos?☠]', x=1469.09, y=80.00, z=231.70] died, message: 'Soon was turned to ice by Ice Dragon'
 [14Dec2024 05:10:14.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Take Aim]
+[14Dec2024 05:16:14.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Sea? Not a Problem]
+[14Dec2024 05:22:35.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kwang-Hyun'/8498, l='ServerLevel[🗡No ties amigos?☠]', x=1374.47, y=64.19, z=214.29] died, message: 'Kwang-Hyun was slain by Ghost'
+[14Dec2024 05:22:35.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kwang-Hyun'/8498, l='ServerLevel[🗡No ties amigos?☠]', x=1374.47, y=64.19, z=214.29] died: Kwang-Hyun was slain by Ghost
+[14Dec2024 05:22:51.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[14Dec2024 05:22:51.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[14Dec2024 05:23:07.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:56121] logged in with entity id 11976 at (1298.2994734623694, 63.0, 220.94016242646154)
+[14Dec2024 05:23:08.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[14Dec2024 05:26:46.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kyeong'/12063, l='ServerLevel[🗡No ties amigos?☠]', x=1064.05, y=76.00, z=378.91] died, message: 'Kyeong (Following) was blown up by Creeper'
+[14Dec2024 05:26:46.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kyeong'/12063, l='ServerLevel[🗡No ties amigos?☠]', x=1064.05, y=76.00, z=378.91] died: Kyeong (Following) was blown up by Creeper
+[14Dec2024 05:26:46.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gun'/12061, l='ServerLevel[🗡No ties amigos?☠]', x=1064.51, y=76.00, z=379.85] died, message: 'Gun (Following) was blown up by Creeper'
+[14Dec2024 05:26:46.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gun'/12061, l='ServerLevel[🗡No ties amigos?☠]', x=1064.51, y=76.00, z=379.85] died: Gun (Following) was blown up by Creeper
+[14Dec2024 05:26:46.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mi-Hee'/12066, l='ServerLevel[🗡No ties amigos?☠]', x=1065.29, y=76.00, z=378.63] died, message: 'Mi-Hee (Following) was blown up by Creeper'
+[14Dec2024 05:26:46.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mi-Hee'/12066, l='ServerLevel[🗡No ties amigos?☠]', x=1065.29, y=76.00, z=378.63] died: Mi-Hee (Following) was blown up by Creeper
+[14Dec2024 05:26:46.213] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Man'/12060, l='ServerLevel[🗡No ties amigos?☠]', x=1064.57, y=76.00, z=378.87] died, message: 'Man (Following) was blown up by Creeper'
+[14Dec2024 05:26:46.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Man'/12060, l='ServerLevel[🗡No ties amigos?☠]', x=1064.57, y=76.00, z=378.87] died: Man (Following) was blown up by Creeper
