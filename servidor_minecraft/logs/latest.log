@@ -201,3 +201,7 @@
 [14Dec2024 02:56:51.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
 [14Dec2024 03:01:20.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> mimance perros
 [14Dec2024 03:03:25.098] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Manuel}[style={}] has been infected
+[14Dec2024 03:08:22.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has reached the goal [Fortuitous Militia]
+[14Dec2024 03:09:15.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1006, y=64, z=183} BlockPos{x=1007, y=63, z=183}
+[14Dec2024 03:14:56.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> tp ADMIN ram
+[14Dec2024 03:15:40.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
