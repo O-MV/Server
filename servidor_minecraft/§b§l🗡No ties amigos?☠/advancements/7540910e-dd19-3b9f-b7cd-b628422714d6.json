@@ -116,6 +116,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "yellow_bioshroom_stem": "2024-12-14 05:58:35 +0000",
       "blue_bioshroom_stem": "2024-12-11 06:37:35 +0000",
       "silver_birch_log": "2024-12-11 21:29:03 +0000",
       "redwood_log": "2024-12-11 05:52:58 +0000",
@@ -2214,6 +2215,7 @@
   },
   "regions_unexplored:ancient_specimens": {
     "criteria": {
+      "yellow_bioshroom_stem": "2024-12-14 05:58:35 +0000",
       "blue_bioshroom_stem": "2024-12-11 06:37:35 +0000",
       "green_bioshroom_stem": "2024-12-11 06:39:55 +0000"
     },
@@ -5431,9 +5433,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_planks": {
+    "criteria": {
+      "has_logs": "2024-12-14 05:58:35 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2024-12-14 04:55:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_trapdoor": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-14 06:02:00 +0000"
     },
     "done": true
   },
@@ -5449,6 +5469,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_pressure_plate": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
       "has_item": "2024-12-14 04:56:57 +0000"
@@ -5461,9 +5487,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-14 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-14 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_stairs": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_door": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_slab": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-14 06:00:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
       "has_item": "2024-12-14 04:56:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-14 05:58:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_button": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-14 06:00:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/yellow_bioshroom_sign": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
     },
     "done": true
   },
@@ -5476,6 +5562,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-14 04:55:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/yellow_bioshroom_fence": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_fence_gate": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
     },
     "done": true
   },
