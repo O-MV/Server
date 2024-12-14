@@ -185,3 +185,9 @@
 [14Dec2024 02:04:52.788] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/5282, l='ServerLevel[🗡No ties amigos?☠]', x=961.50, y=60.00, z=-60.50]
 [14Dec2024 02:23:59.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:57501] logged in with entity id 7359 at (847.8688339951805, 64.0, 74.24801154874585)
 [14Dec2024 02:23:59.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[14Dec2024 02:32:15.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[14Dec2024 02:32:15.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[14Dec2024 02:32:40.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.124.47.124:35397] logged in with entity id 9679 at (960.3247013853764, -29.0, 47.30000001192093)
+[14Dec2024 02:32:40.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[14Dec2024 02:34:07.593] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kai'/10105, l='ServerLevel[🗡No ties amigos?☠]', x=814.83, y=34.17, z=185.82] died, message: 'Kai tried to swim in lava'
+[14Dec2024 02:34:07.596] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kai'/10105, l='ServerLevel[🗡No ties amigos?☠]', x=814.83, y=34.17, z=185.82] died: Kai tried to swim in lava
