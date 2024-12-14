@@ -5787,3 +5787,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 01:38:32.756] [Server thread/DEBUG] [tombstone/]: A new grave of the player ram was created at position [x:943, y:14, z:18, dim:minecraft:overworld]
 [14Dec2024 01:42:45.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [14Dec2024 01:42:45.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[14Dec2024 01:47:45.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[14Dec2024 01:47:45.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[14Dec2024 01:52:45.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[14Dec2024 01:52:45.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[14Dec2024 01:54:36.949] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ute'/3558, l='ServerLevel[🗡No ties amigos?☠]', x=804.77, y=11.00, z=162.71] died, message: 'Ute burned to death'
+[14Dec2024 01:54:36.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ute'/3558, l='ServerLevel[🗡No ties amigos?☠]', x=804.77, y=11.00, z=162.71] died: Ute burned to death

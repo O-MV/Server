@@ -180,3 +180,5 @@
 [14Dec2024 01:37:32.799] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
 [14Dec2024 01:37:32.885] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
 [14Dec2024 01:38:32.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram fell from a high place
+[14Dec2024 01:54:36.949] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ute'/3558, l='ServerLevel[🗡No ties amigos?☠]', x=804.77, y=11.00, z=162.71] died, message: 'Ute burned to death'
+[14Dec2024 01:54:36.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ute'/3558, l='ServerLevel[🗡No ties amigos?☠]', x=804.77, y=11.00, z=162.71] died: Ute burned to death
