@@ -305,3 +305,10 @@
 [14Dec2024 06:27:55.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
 [14Dec2024 06:28:04.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
 [14Dec2024 06:47:50.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! -7.243880762549011,0.0,7.097748864383149
+[14Dec2024 07:04:02.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> si ven una que se llame clau me dicen perros
+[14Dec2024 07:06:47.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. death.attack.mob.player
+[14Dec2024 07:06:47.606] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[14Dec2024 07:06:47.617] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[14Dec2024 07:07:16.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to manu
+[14Dec2024 07:10:32.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement ['Til Death Do Us Part]
+[14Dec2024 07:11:07.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Next Generation]
