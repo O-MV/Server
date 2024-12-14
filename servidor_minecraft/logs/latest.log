@@ -298,3 +298,7 @@
 [14Dec2024 04:20:22.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! 23.274864468379974,0.37599057524216306,-5.618616846462942
 [14Dec2024 04:20:37.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
 [14Dec2024 04:20:46.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ram
+[14Dec2024 04:32:54.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[14Dec2024 04:32:54.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[14Dec2024 04:38:39.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.124.47.124:40909] logged in with entity id 49144 at (757.5435511435361, -49.0, 378.4195370207661)
+[14Dec2024 04:38:39.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
