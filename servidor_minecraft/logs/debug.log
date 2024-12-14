@@ -6356,3 +6356,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Dec2024 06:08:18.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3865ms or 77 ticks behind
 [14Dec2024 06:08:25.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [14Dec2024 06:08:25.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[14Dec2024 06:13:25.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[14Dec2024 06:13:25.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[14Dec2024 06:18:22.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram experienced kinetic energy whilst trying to escape manu
+[14Dec2024 06:18:22.762] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[14Dec2024 06:18:22.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu experienced kinetic energy whilst trying to escape Hellrok
+[14Dec2024 06:18:22.767] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[14Dec2024 06:18:22.768] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[14Dec2024 06:18:22.768] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[14Dec2024 06:18:25.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[14Dec2024 06:18:25.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[14Dec2024 06:18:46.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu experienced kinetic energy
+[14Dec2024 06:18:46.147] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:-29, y:71, z:247, dim:minecraft:the_nether]
+[14Dec2024 06:19:42.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Hellrok
+[14Dec2024 06:19:42.108] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[14Dec2024 06:19:42.117] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[14Dec2024 06:19:44.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by entity.terramity.fireball_projectile_projectile
+[14Dec2024 06:19:44.658] [Server thread/DEBUG] [tombstone/]: A new grave of the player ram was created at position [x:-43, y:63, z:259, dim:minecraft:the_nether]
+[14Dec2024 06:19:44.664] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[14Dec2024 06:20:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[14Dec2024 06:20:26.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
+[14Dec2024 06:22:54.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [What a Deal!]

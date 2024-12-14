@@ -284,3 +284,18 @@
 [14Dec2024 06:00:17.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=838, y=64, z=38} BlockPos{x=840, y=62, z=38}
 [14Dec2024 06:01:04.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! -11.102792248813898,7.256644865271227,17.007753041599052
 [14Dec2024 06:08:18.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3865ms or 77 ticks behind
+[14Dec2024 06:18:22.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram experienced kinetic energy whilst trying to escape manu
+[14Dec2024 06:18:22.762] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[14Dec2024 06:18:22.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu experienced kinetic energy whilst trying to escape Hellrok
+[14Dec2024 06:18:22.767] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[14Dec2024 06:18:22.768] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[14Dec2024 06:18:22.768] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[14Dec2024 06:18:46.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu experienced kinetic energy
+[14Dec2024 06:19:42.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Hellrok
+[14Dec2024 06:19:42.108] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[14Dec2024 06:19:42.117] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[14Dec2024 06:19:44.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by entity.terramity.fireball_projectile_projectile
+[14Dec2024 06:19:44.664] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[14Dec2024 06:20:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[14Dec2024 06:20:26.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
+[14Dec2024 06:22:54.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [What a Deal!]
