@@ -6015,5 +6015,17 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2024-12-14 02:46:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blue_magnolia_shrub": {
+    "criteria": {
+      "has_blue_magnolia_sapling": "2024-12-14 02:47:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

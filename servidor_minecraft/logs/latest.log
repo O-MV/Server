@@ -196,3 +196,6 @@
 [14Dec2024 02:40:45.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3545ms or 70 ticks behind
 [14Dec2024 02:45:11.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ina'/14218, l='ServerLevel[🗡No ties amigos?☠]', x=807.93, y=84.00, z=192.18] died, message: 'Ina was slain by Zombie'
 [14Dec2024 02:45:11.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ina'/14218, l='ServerLevel[🗡No ties amigos?☠]', x=807.93, y=84.00, z=192.18] died: Ina was slain by Zombie
+[14Dec2024 02:51:25.569] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Friedo}[style={}] has been infected
+[14Dec2024 02:51:29.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[14Dec2024 02:56:51.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
