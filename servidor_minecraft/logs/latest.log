@@ -288,3 +288,13 @@
 [14Dec2024 04:17:10.135] [Worker-Main-104/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [14Dec2024 04:17:40.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Roosting]
 [14Dec2024 04:17:48.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Ambush]
+[14Dec2024 04:19:02.806] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-59, z=246}
+[14Dec2024 04:19:07.682] [Worker-Main-104/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-502, y=-58, z=246}
+[14Dec2024 04:20:01.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
+[14Dec2024 04:20:11.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! 16.888027850935828,2.509807984373161,12.724504311451085
+[14Dec2024 04:20:20.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Cave Centipede
+[14Dec2024 04:20:20.016] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[14Dec2024 04:20:20.030] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[14Dec2024 04:20:22.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! 23.274864468379974,0.37599057524216306,-5.618616846462942
+[14Dec2024 04:20:37.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[14Dec2024 04:20:46.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ram
