@@ -281,3 +281,4 @@ Things may not work well.
 [16Dec2024 22:46:51.686] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [16Dec2024 22:46:52.106] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 161719 bytes (in 17 string chunks with the size of 10000)
 [16Dec2024 22:46:52.107] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[16Dec2024 22:58:26.723] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d19ffd9[id=<null>,name=ADMIN,properties={},legacy=false] (/127.227.189.202:46663) lost connection: Disconnected
