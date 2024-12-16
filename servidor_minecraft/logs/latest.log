@@ -289,3 +289,9 @@ Things may not work well.
 [16Dec2024 23:07:37.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Journeymap Version Mismatch need at least 5.10.3 or higher. Current CLIENT version attempt -> 5.10.0
 [16Dec2024 23:07:37.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
 [16Dec2024 23:07:37.978] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Dec2024 23:16:33.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:46389] logged in with entity id 751 at (858.9614975387883, 73.0625, 130.57301414821546)
+[16Dec2024 23:16:33.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[16Dec2024 23:16:35.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16Dec2024 23:17:53.820] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Sylke}[style={}] has been infected
+[16Dec2024 23:18:30.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[16Dec2024 23:18:30.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
