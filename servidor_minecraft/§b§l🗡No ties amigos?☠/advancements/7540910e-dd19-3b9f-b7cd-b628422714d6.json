@@ -5519,6 +5519,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-14 08:01:25 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/yellow_bioshroom_door": {
     "criteria": {
       "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
@@ -5570,6 +5576,12 @@
   "regions_unexplored:recipes/decorations/yellow_bioshroom_sign": {
     "criteria": {
       "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-14 08:00:16 +0000"
     },
     "done": true
   },
