@@ -199,3 +199,5 @@
 [18Dec2024 00:56:59.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
 [18Dec2024 00:56:59.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 0.4253448109839155,-0.6205631903079336,10.151577402376745
 [18Dec2024 01:17:50.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1053, y=62, z=71} BlockPos{x=1052, y=61, z=71}
+[18Dec2024 01:38:13.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:57275] logged in with entity id 11537 at (809.5788617749272, 67.0, 21.30279455668132)
+[18Dec2024 01:38:14.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
