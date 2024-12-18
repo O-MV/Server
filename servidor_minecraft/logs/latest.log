@@ -206,3 +206,5 @@
 [18Dec2024 21:56:41.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3910ms or 78 ticks behind
 [18Dec2024 21:57:10.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -1.0559371113566556,7.942427752628902,6.644031325610065
 [18Dec2024 22:00:47.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[18Dec2024 22:13:20.667] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[18Dec2024 22:13:20.669] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
