@@ -202,3 +202,4 @@
 [18Dec2024 21:27:21.108] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
 [18Dec2024 21:27:21.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4545ms or 90 ticks behind
 [18Dec2024 21:30:52.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [What a Handful]
+[18Dec2024 21:45:45.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> [x:898, y:61, z:27, dim:minecraft:overworld]
