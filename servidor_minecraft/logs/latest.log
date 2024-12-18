@@ -310,3 +310,101 @@
 [18Dec2024 05:12:11.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:56267] logged in with entity id 15777 at (1705.1427561787252, 64.04327964513062, 836.4394068622378)
 [18Dec2024 05:12:11.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
 [18Dec2024 05:12:15.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[18Dec2024 05:17:08.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[18Dec2024 05:17:27.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzzz
+[18Dec2024 05:17:54.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has completed the challenge [Eye of the Tiger]
+[18Dec2024 05:19:07.419] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:19:07.420] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:19:07.421] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:19:07.424] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:19:14.220] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:19:14.221] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:19:14.221] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:19:14.222] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:19:14.223] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:20:23.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Ice Dragon
+[18Dec2024 05:20:23.586] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[18Dec2024 05:20:23.612] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[18Dec2024 05:20:36.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was turned to ice by Ice Dragon
+[18Dec2024 05:20:36.289] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[18Dec2024 05:20:36.302] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[18Dec2024 05:20:43.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was slain by Ice Dragon
+[18Dec2024 05:20:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was turned to ice by a dragon
+[18Dec2024 05:20:58.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Annukka'/17732, l='ServerLevel[🗡No ties amigos?☠]', x=1771.34, y=68.27, z=914.10] died, message: 'Annukka was slain by Ice Dragon'
+[18Dec2024 05:20:58.906] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Annukka'/17732, l='ServerLevel[🗡No ties amigos?☠]', x=1771.34, y=68.27, z=914.10] died: Annukka was slain by Ice Dragon
+[18Dec2024 05:21:20.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was turned to ice by Ice Dragon
+[18Dec2024 05:21:20.437] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[18Dec2024 05:21:20.454] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[18Dec2024 05:21:27.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was turned to ice by a dragon
+[18Dec2024 05:21:35.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Seija'/18255, l='ServerLevel[🗡No ties amigos?☠]', x=1805.50, y=67.28, z=923.28] died, message: 'Seija froze to death'
+[18Dec2024 05:21:35.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Seija'/18255, l='ServerLevel[🗡No ties amigos?☠]', x=1805.50, y=67.28, z=923.28] died: Seija froze to death
+[18Dec2024 05:23:14.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has completed the challenge [Rude Awakening]
+[18Dec2024 05:26:41.451] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:41.453] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:41.453] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:41.454] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:41.454] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:50.680] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:50.683] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:51.009] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:51.012] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:51.013] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:51.014] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:51.015] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:54.949] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:54.952] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:57.941] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:57.944] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:57.945] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:57.946] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:26:59.223] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:27:10.525] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:27:10.528] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:27:38.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[18Dec2024 05:27:38.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp manu ADMIN}<--[HERE]
+[18Dec2024 05:27:44.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[18Dec2024 05:27:44.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp manu ADMIN}<--[HERE]
+[18Dec2024 05:27:50.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[18Dec2024 05:27:59.359] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:27:59.361] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:27:59.363] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:27:59.365] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:27:59.366] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:27:59.605] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:27:59.607] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:27:59.608] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:27:59.610] [Worker-Main-48/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[18Dec2024 05:28:15.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Voluntary Exile]
+[18Dec2024 05:28:24.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Fortuitous Militia]
+[18Dec2024 05:30:04.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dread Ghoul
+[18Dec2024 05:30:04.550] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[18Dec2024 05:30:04.553] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[18Dec2024 05:30:14.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dread Ghoul
+[18Dec2024 05:30:49.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dread Beast
+[18Dec2024 05:30:49.651] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[18Dec2024 05:30:49.668] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[18Dec2024 05:31:06.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[18Dec2024 05:31:27.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dread Ghoul
+[18Dec2024 05:31:27.954] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[18Dec2024 05:31:27.963] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[18Dec2024 05:31:32.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[18Dec2024 05:31:32.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp manu ADMIN}<--[HERE]
+[18Dec2024 05:31:57.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dread Ghoul
+[18Dec2024 05:33:44.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dread Beast
+[18Dec2024 05:33:44.592] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[18Dec2024 05:33:44.596] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[18Dec2024 05:33:51.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dread Beast
+[18Dec2024 05:34:14.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:46823] logged in with entity id 25965 at (807.840710032323, 67.5, 23.366531091252334)
+[18Dec2024 05:34:14.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[18Dec2024 05:34:21.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Dread Scuttler
+[18Dec2024 05:34:21.746] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[18Dec2024 05:34:21.772] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[18Dec2024 05:34:35.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dread Ghoul
+[18Dec2024 05:34:35.891] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[18Dec2024 05:34:35.898] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[18Dec2024 05:34:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> que pex perros
+[18Dec2024 05:34:47.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> ya llegueeeeeeeeeeee
+[18Dec2024 05:34:51.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[18Dec2024 05:34:51.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp ram  ADMIN<--[HERE]
+[18Dec2024 05:35:01.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
+[18Dec2024 05:35:37.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> que epdoooo
