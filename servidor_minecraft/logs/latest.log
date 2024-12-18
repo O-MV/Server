@@ -203,3 +203,6 @@
 [18Dec2024 21:27:21.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4545ms or 90 ticks behind
 [18Dec2024 21:30:52.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [What a Handful]
 [18Dec2024 21:45:45.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> [x:898, y:61, z:27, dim:minecraft:overworld]
+[18Dec2024 21:56:41.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3910ms or 78 ticks behind
+[18Dec2024 21:57:10.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -1.0559371113566556,7.942427752628902,6.644031325610065
+[18Dec2024 22:00:47.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
