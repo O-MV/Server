@@ -997,6 +997,7 @@
       "minecraft:river": "2024-12-11 06:00:41 +0000",
       "minecraft:lukewarm_ocean": "2024-12-12 06:14:23 +0000",
       "minecraft:stony_shore": "2024-12-11 07:31:57 +0000",
+      "minecraft:snowy_taiga": "2024-12-18 05:35:01 +0000",
       "minecraft:cold_ocean": "2024-12-12 03:43:27 +0000",
       "minecraft:forest": "2024-12-11 18:37:55 +0000",
       "minecraft:lush_caves": "2024-12-11 06:26:30 +0000",
@@ -6015,6 +6016,18 @@
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2024-12-18 03:03:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-18 05:35:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-18 05:35:52 +0000"
     },
     "done": true
   },

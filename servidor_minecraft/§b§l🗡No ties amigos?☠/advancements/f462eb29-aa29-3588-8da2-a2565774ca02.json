@@ -6440,6 +6440,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-18 05:36:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-18 05:36:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-18 05:36:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone": {
     "criteria": {
       "has_item": "2024-12-18 05:30:39 +0000"
@@ -6455,6 +6473,12 @@
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2024-12-18 05:30:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 05:41:34 +0000"
     },
     "done": true
   },
