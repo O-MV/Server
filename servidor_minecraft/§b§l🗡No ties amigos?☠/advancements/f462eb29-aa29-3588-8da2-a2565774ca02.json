@@ -6163,33 +6163,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/blackwood_sign": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_button": {
-    "criteria": {
-      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
-    "criteria": {
-      "has_item": "2024-12-18 01:14:38 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
-    "criteria": {
-      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_candle": {
-    "criteria": {
-      "has_purple_dye": "2024-12-18 01:02:08 +0000"
+      "has_rose_bush": "2024-12-18 01:02:02 +0000"
     },
     "done": true
   },
@@ -6199,57 +6175,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-12-18 01:45:42 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
-    "criteria": {
-      "has_logs": "2024-12-18 02:46:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2024-12-18 01:02:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_purple_dye": "2024-12-18 01:02:08 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/magnolia_fence": {
-    "criteria": {
-      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/blackwood_shrub": {
-    "criteria": {
-      "has_blackwood_sapling": "2024-12-18 01:40:45 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
-    "criteria": {
-      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-18 01:02:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/blackwood_fence": {
-    "criteria": {
-      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
     },
     "done": true
   },
@@ -6265,69 +6193,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
-    "criteria": {
-      "has_daisy": "2024-12-18 01:06:27 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/blackwood_button": {
-    "criteria": {
-      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
-    "criteria": {
-      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/white_magnolia_flowers": {
-    "criteria": {
-      "has_white_magnolia_leaves": "2024-12-18 02:54:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2024-12-18 01:02:07 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
-    "criteria": {
-      "has_log": "2024-12-18 02:46:02 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
-    "criteria": {
-      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/blackwood_trapdoor": {
-    "criteria": {
-      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-12-18 02:35:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_door": {
-    "criteria": {
-      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/blackwood_stairs": {
-    "criteria": {
-      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
     },
     "done": true
   },
@@ -6337,15 +6205,33 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/blackwood_pressure_plate": {
+  "minecraft:recipes/misc/purple_dye": {
     "criteria": {
-      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+      "has_red_dye": "2024-12-18 01:02:07 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/blackwood_fence_gate": {
+  "minecraft:recipes/decorations/red_candle": {
     "criteria": {
-      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+      "has_red_dye": "2024-12-18 01:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-18 01:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-12-18 01:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2024-12-18 01:02:08 +0000"
     },
     "done": true
   },
@@ -6361,39 +6247,87 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/blackwood_slab": {
-    "criteria": {
-      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
-    "criteria": {
-      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2024-12-18 01:02:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-18 01:02:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_candle": {
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
     "criteria": {
-      "has_red_dye": "2024-12-18 01:02:07 +0000"
+      "has_daisy": "2024-12-18 01:06:27 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/magnolia_sign": {
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
     "criteria": {
-      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
+      "has_fireweed": "2024-12-18 01:06:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-18 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_shrub": {
+    "criteria": {
+      "has_blackwood_sapling": "2024-12-18 01:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-18 01:45:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_sign": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_fence": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_button": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_trapdoor": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_stairs": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_pressure_plate": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_fence_gate": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_slab": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
     },
     "done": true
   },
@@ -6403,9 +6337,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_red_dye": "2024-12-18 01:02:07 +0000"
+      "has_wood_slab": "2024-12-18 02:35:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 02:46:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 02:46:02 +0000"
     },
     "done": true
   },
@@ -6415,9 +6361,63 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+  "regions_unexplored:recipes/redstone/magnolia_button": {
     "criteria": {
-      "has_fireweed": "2024-12-18 01:06:41 +0000"
+      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
+    "criteria": {
+      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_fence": {
+    "criteria": {
+      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
+    "criteria": {
+      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
+    "criteria": {
+      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
+    "criteria": {
+      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_door": {
+    "criteria": {
+      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
+    "criteria": {
+      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_sign": {
+    "criteria": {
+      "has_magnolia_planks": "2024-12-18 02:46:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/white_magnolia_flowers": {
+    "criteria": {
+      "has_white_magnolia_leaves": "2024-12-18 02:54:11 +0000"
     },
     "done": true
   },
