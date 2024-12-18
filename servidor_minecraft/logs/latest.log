@@ -225,3 +225,7 @@
 [18Dec2024 02:35:35.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> eeeeeeeeeeee
 [18Dec2024 02:35:41.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> mid diff
 [18Dec2024 02:35:46.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> supp
+[18Dec2024 02:46:27.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3953ms or 79 ticks behind
+[18Dec2024 02:48:23.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> mid diff
+[18Dec2024 02:48:30.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> jungla diff
+[18Dec2024 02:48:50.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
