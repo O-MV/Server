@@ -5429,33 +5429,45 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-14 05:10:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_planks": {
-    "criteria": {
-      "has_logs": "2024-12-14 05:58:35 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2024-12-14 04:55:55 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/yellow_bioshroom_trapdoor": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+      "has_gunpowder": "2024-12-14 04:55:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_kelp": "2024-12-14 06:02:00 +0000"
+      "has_gunpowder": "2024-12-14 04:55:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-14 04:56:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-14 04:56:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-14 04:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-14 05:10:14 +0000"
     },
     "done": true
   },
@@ -5471,33 +5483,87 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_planks": {
+    "criteria": {
+      "has_logs": "2024-12-14 05:58:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-14 05:58:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_trapdoor": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/yellow_bioshroom_pressure_plate": {
     "criteria": {
       "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_stairs": {
     "criteria": {
-      "has_item": "2024-12-14 04:56:57 +0000"
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_door": {
     "criteria": {
-      "has_gunpowder": "2024-12-14 04:55:55 +0000"
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_slab": {
     "criteria": {
-      "has_glowstone_dust": "2024-12-14 06:15:48 +0000"
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_button": {
     "criteria": {
-      "has_magma_cream": "2024-12-14 07:16:55 +0000"
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/yellow_bioshroom_sign": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/yellow_bioshroom_fence": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/yellow_bioshroom_fence_gate": {
+    "criteria": {
+      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-14 06:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-14 06:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-14 06:02:00 +0000"
     },
     "done": true
   },
@@ -5513,75 +5579,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_stairs": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-12-14 08:01:25 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/yellow_bioshroom_door": {
-    "criteria": {
-      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-14 06:22:54 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_slab": {
-    "criteria": {
-      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2024-12-14 06:00:17 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-14 04:56:42 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_hyphae": {
-    "criteria": {
-      "has_log": "2024-12-14 05:58:35 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/yellow_bioshroom_button": {
-    "criteria": {
-      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2024-12-14 06:00:17 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/yellow_bioshroom_sign": {
-    "criteria": {
-      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_lectern": {
-    "criteria": {
-      "has_bookshelf": "2024-12-14 08:00:16 +0000"
+      "has_glowstone_dust": "2024-12-14 06:15:48 +0000"
     },
     "done": true
   },
@@ -5591,27 +5591,27 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_owner_changer": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_name_tag": "2024-12-14 04:57:24 +0000"
+      "traded": "2024-12-14 06:22:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "has_gunpowder": "2024-12-14 04:55:55 +0000"
+      "has_magma_cream": "2024-12-14 07:16:55 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/yellow_bioshroom_fence": {
+  "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
-      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+      "has_bookshelf": "2024-12-14 08:00:16 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/yellow_bioshroom_fence_gate": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_yellow_bioshroom_planks": "2024-12-14 05:58:41 +0000"
+      "enchanted_item": "2024-12-14 08:01:25 +0000"
     },
     "done": true
   },

@@ -6053,3 +6053,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 01:38:13.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:57275] logged in with entity id 11537 at (809.5788617749272, 67.0, 21.30279455668132)
 [18Dec2024 01:38:13.864] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@493c0b57 into net.minecraft.network.Connection@6c3aa79f
 [18Dec2024 01:38:14.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[18Dec2024 01:42:01.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[18Dec2024 01:42:01.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[18Dec2024 01:42:52.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[18Dec2024 01:42:53.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[18Dec2024 01:42:54.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[18Dec2024 01:47:01.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[18Dec2024 01:47:01.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
