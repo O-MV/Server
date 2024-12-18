@@ -229,3 +229,28 @@
 [18Dec2024 02:48:23.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> mid diff
 [18Dec2024 02:48:30.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> jungla diff
 [18Dec2024 02:48:50.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[18Dec2024 02:53:29.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[18Dec2024 02:53:29.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[18Dec2024 02:53:46.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.80.48.160:47375] logged in with entity id 37290 at (801.3532082326577, 67.0, 24.401173482216254)
+[18Dec2024 02:53:46.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[18Dec2024 02:54:16.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[18Dec2024 02:54:16.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[18Dec2024 02:54:16.325] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 02:54:38.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.80.48.160:54239] logged in with entity id 37792 at (801.3532082326577, 67.0, 24.401173482216254)
+[18Dec2024 02:54:38.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[18Dec2024 02:55:08.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[18Dec2024 02:55:08.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[18Dec2024 02:56:10.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.80.48.160:47157] logged in with entity id 38046 at (801.3532082326577, 67.0, 24.401173482216254)
+[18Dec2024 02:56:10.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[18Dec2024 02:58:40.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[18Dec2024 02:58:40.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[18Dec2024 02:58:55.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.80.48.160:41061] logged in with entity id 38761 at (812.6712097571135, 63.0, 24.329242638920068)
+[18Dec2024 02:58:55.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[18Dec2024 02:59:25.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[18Dec2024 02:59:25.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[18Dec2024 03:00:10.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.80.48.160:43229] logged in with entity id 39056 at (812.6712097571135, 63.0, 24.329242638920068)
+[18Dec2024 03:00:10.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[18Dec2024 03:00:40.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[18Dec2024 03:00:40.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[18Dec2024 03:01:40.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.80.48.160:47343] logged in with entity id 39248 at (812.6712097571135, 63.0, 24.329242638920068)
+[18Dec2024 03:01:40.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game

@@ -5976,5 +5976,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-18 02:50:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
