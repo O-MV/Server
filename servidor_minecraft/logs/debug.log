@@ -9058,3 +9058,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 06:26:18.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2581ms or 51 ticks behind
 [18Dec2024 06:27:00.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [18Dec2024 06:27:00.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[18Dec2024 06:32:00.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[18Dec2024 06:32:00.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[18Dec2024 06:35:23.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Piglin
+[18Dec2024 06:35:23.643] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[18Dec2024 06:35:23.649] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[18Dec2024 06:35:36.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[18Dec2024 06:35:47.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by ADMIN
+[18Dec2024 06:35:47.502] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[18Dec2024 06:35:47.505] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[18Dec2024 06:36:02.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Wolf
+[18Dec2024 06:36:02.186] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[18Dec2024 06:36:02.192] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[18Dec2024 06:36:08.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was slain by Wolf
+[18Dec2024 06:36:08.573] [Server thread/DEBUG] [tombstone/]: A new grave of the player ADMIN was created at position [x:825, y:67, z:-44, dim:minecraft:overworld]
+[18Dec2024 06:37:00.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[18Dec2024 06:37:00.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
