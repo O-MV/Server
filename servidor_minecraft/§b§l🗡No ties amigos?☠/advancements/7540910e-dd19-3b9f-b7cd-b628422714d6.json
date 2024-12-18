@@ -5615,9 +5615,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 02:08:25 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/blackwood_shrub": {
     "criteria": {
       "has_blackwood_sapling": "2024-12-18 01:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 02:08:25 +0000"
     },
     "done": true
   },

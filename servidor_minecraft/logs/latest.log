@@ -214,3 +214,5 @@
 [18Dec2024 01:59:08.166] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
 [18Dec2024 01:59:15.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by ADMIN
 [18Dec2024 01:59:51.717] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48533f33[id=<null>,name=ram,properties={},legacy=false] (/127.80.48.160:59049) lost connection: Disconnected
+[18Dec2024 02:10:31.610] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@df95cb4[id=<null>,name=ram,properties={},legacy=false] (/127.80.48.160:34217) lost connection: Disconnected
+[18Dec2024 02:18:26.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ADMIN a server operator
