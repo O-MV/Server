@@ -720,3 +720,6 @@
 [18Dec2024 06:36:02.186] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
 [18Dec2024 06:36:02.192] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
 [18Dec2024 06:36:08.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was slain by Wolf
+[18Dec2024 06:53:34.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[18Dec2024 06:53:34.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[18Dec2024 06:54:47.033] [Server thread/INFO] [forge.net.mca.MCA/]: Force-stopped chore because assigning player was not present.

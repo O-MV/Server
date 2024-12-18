@@ -9074,3 +9074,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 06:36:08.573] [Server thread/DEBUG] [tombstone/]: A new grave of the player ADMIN was created at position [x:825, y:67, z:-44, dim:minecraft:overworld]
 [18Dec2024 06:37:00.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [18Dec2024 06:37:00.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[18Dec2024 06:42:00.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[18Dec2024 06:42:00.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[18Dec2024 06:47:00.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[18Dec2024 06:47:00.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[18Dec2024 06:52:00.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[18Dec2024 06:52:00.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[18Dec2024 06:53:34.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[18Dec2024 06:53:34.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[18Dec2024 06:54:47.033] [Server thread/INFO] [forge.net.mca.MCA/]: Force-stopped chore because assigning player was not present.
+[18Dec2024 06:57:00.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[18Dec2024 06:57:00.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
