@@ -204,3 +204,13 @@
 [18Dec2024 01:42:52.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
 [18Dec2024 01:42:53.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
 [18Dec2024 01:42:54.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
+[18Dec2024 01:52:53.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Zombified Piglin
+[18Dec2024 01:52:53.480] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[18Dec2024 01:52:53.495] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[18Dec2024 01:53:10.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[18Dec2024 01:58:50.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
+[18Dec2024 01:59:08.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by ADMIN
+[18Dec2024 01:59:08.151] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[18Dec2024 01:59:08.166] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[18Dec2024 01:59:15.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by ADMIN
+[18Dec2024 01:59:51.717] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48533f33[id=<null>,name=ram,properties={},legacy=false] (/127.80.48.160:59049) lost connection: Disconnected

@@ -5615,5 +5615,11 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/blackwood_shrub": {
+    "criteria": {
+      "has_blackwood_sapling": "2024-12-18 01:53:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
