@@ -6162,6 +6162,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/blackwood_sign": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
       "has_item": "2024-12-18 01:14:38 +0000"
@@ -6210,6 +6216,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/blackwood_fence": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-18 01:02:07 +0000"
@@ -6228,15 +6240,51 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/blackwood_button": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2024-12-18 01:02:07 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/blackwood_trapdoor": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-18 02:35:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_stairs": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-18 01:02:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_pressure_plate": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_fence_gate": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
     },
     "done": true
   },
@@ -6249,6 +6297,12 @@
   "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-18 01:02:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_slab": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
     },
     "done": true
   },
@@ -6267,6 +6321,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2024-12-18 01:02:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/blackwood_door": {
+    "criteria": {
+      "has_blackwood_planks": "2024-12-18 02:34:30 +0000"
     },
     "done": true
   },
