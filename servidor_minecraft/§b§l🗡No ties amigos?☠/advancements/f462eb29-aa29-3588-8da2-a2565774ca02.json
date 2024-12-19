@@ -6531,12 +6531,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-12-18 21:57:56 +0000"
-    },
-    "done": true
-  },
   "mca:grow_child": {
     "criteria": {
       "baby": "2024-12-18 21:30:52 +0000"
@@ -6546,6 +6540,18 @@
   "iceandfire:recipes/combat/armor_silver_metal_helmet": {
     "criteria": {
       "has_the_recipe": "2024-12-18 21:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-18 21:57:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blue_magnolia_flowers": {
+    "criteria": {
+      "has_blue_magnolia_leaves": "2024-12-18 22:40:56 +0000"
     },
     "done": true
   },

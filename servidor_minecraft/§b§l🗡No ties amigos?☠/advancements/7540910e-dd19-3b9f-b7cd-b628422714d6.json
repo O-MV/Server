@@ -5798,93 +5798,9 @@
     },
     "done": false
   },
-  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_item": "2024-12-18 05:46:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/lime_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
-    "criteria": {
-      "has_item": "2024-12-18 06:48:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2024-12-18 05:24:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-18 06:48:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2024-12-18 05:26:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
-    "criteria": {
-      "has_item": "2024-12-18 06:48:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_face": {
-    "criteria": {
-      "has_item": "2024-12-18 05:48:44 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/brown_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2024-12-18 05:26:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-18 05:28:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/orange_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2024-12-18 05:28:24 +0000"
+      "wheat": "2024-12-18 05:06:48 +0000"
     },
     "done": true
   },
@@ -5900,165 +5816,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-18 06:48:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/cyan_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/red_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_boots": {
-    "criteria": {
-      "has_item": "2024-12-18 05:46:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magenta_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/bouquet": {
-    "criteria": {
-      "has_item": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2024-12-18 05:10:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
+      "has_black_dye": "2024-12-18 05:10:14 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
-      "has_item": "2024-12-18 05:48:44 +0000"
+      "has_black_dye": "2024-12-18 05:10:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+  "minecraft:recipes/decorations/black_candle": {
     "criteria": {
-      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
+      "has_black_dye": "2024-12-18 05:10:14 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+  "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
-      "has_item": "2024-12-18 05:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/yellow_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pink_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
-    "criteria": {
-      "has_item": "2024-12-18 05:48:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
-    "criteria": {
-      "has_item": "2024-12-18 06:48:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/purple_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2024-12-18 06:48:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2024-12-18 05:26:20 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:every_bit_of_the_rainbow": {
-    "criteria": {
-      "white_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2024-12-18 05:46:54 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/blue_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/light_blue_snowbelle": {
-    "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
+      "has_needed_dye": "2024-12-18 05:10:14 +0000"
     },
     "done": true
   },
@@ -6074,27 +5858,45 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/green_snowbelle": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+      "has_snowball": "2024-12-18 05:24:02 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/food/frost_stew": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_item": "2024-12-18 05:57:33 +0000"
+      "has_snowball": "2024-12-18 05:24:02 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/white_dye_from_white_snowbelle": {
+  "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
-      "has_white_snowbelle": "2024-12-18 05:58:14 +0000"
+      "has_rabbit": "2024-12-18 05:26:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
-      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
+      "has_rabbit": "2024-12-18 05:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-18 05:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-18 05:28:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 05:28:24 +0000"
     },
     "done": true
   },
@@ -6104,21 +5906,165 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+  "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
-      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
+      "has_item": "2024-12-18 05:30:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+  "iceandfire:recipes/misc/bestiary": {
     "criteria": {
-      "has_black_dye": "2024-12-18 05:10:14 +0000"
+      "has_item": "2024-12-18 05:46:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-18 05:46:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2024-12-18 05:46:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-18 05:46:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-18 05:46:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2024-12-18 05:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2024-12-18 05:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2024-12-18 05:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2024-12-18 05:48:44 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2024-12-18 05:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2024-12-18 05:57:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:every_bit_of_the_rainbow": {
+    "criteria": {
+      "white_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/blue_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2024-12-18 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_snowbelle": {
+    "criteria": {
+      "has_white_snowbelle": "2024-12-18 05:58:14 +0000"
     },
     "done": true
   },
@@ -6134,57 +6080,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-12-18 05:06:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_black_dye": "2024-12-18 05:10:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_torch": {
-    "criteria": {
-      "has_item": "2024-12-18 05:30:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_candle": {
-    "criteria": {
-      "has_black_dye": "2024-12-18 05:10:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_ice": {
-    "criteria": {
-      "has_item": "2024-12-18 05:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/white_snowbelle": {
     "criteria": {
       "has_snowbelle": "2024-12-18 05:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-18 05:10:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2024-12-18 05:24:02 +0000"
     },
     "done": true
   },
@@ -6194,9 +6092,111 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
-      "has_item": "2024-12-18 05:46:56 +0000"
+      "has_stone_bricks": "2024-12-18 06:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 06:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-18 06:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-18 06:48:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-18 06:48:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-18 06:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-18 06:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-18 06:48:34 +0000"
     },
     "done": true
   },
