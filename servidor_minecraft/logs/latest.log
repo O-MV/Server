@@ -214,3 +214,26 @@
 [19Dec2024 23:38:09.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4961ms or 99 ticks behind
 [19Dec2024 23:40:56.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:50173] logged in with entity id 1527 at (806.2643793449936, 67.0, 26.24021603171977)
 [19Dec2024 23:40:56.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[19Dec2024 23:45:39.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Disconnected
+[19Dec2024 23:45:39.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[19Dec2024 23:45:39.376] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[19Dec2024 23:49:55.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:50789] logged in with entity id 3541 at (1657.5, 77.1, 1588.5)
+[19Dec2024 23:49:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[19Dec2024 23:49:58.282] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[19Dec2024 23:49:58.284] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[19Dec2024 23:49:58.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[19Dec2024 23:52:40.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> me escuchas
+[19Dec2024 23:52:47.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:53971] logged in with entity id 4722 at (830.0814150069274, 63.0, -4.926468897738766)
+[19Dec2024 23:52:48.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[19Dec2024 23:52:50.251] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[19Dec2024 23:52:50.254] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[19Dec2024 23:52:50.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[19Dec2024 23:53:00.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> NO
+[19Dec2024 23:53:30.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> que preciono
+[19Dec2024 23:53:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> TU ME ESCUCHAS
+[19Dec2024 23:53:52.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> me hacen tp
+[19Dec2024 23:54:01.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> no los escucho
+[19Dec2024 23:54:12.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> wey eso solo es de cerca
+[19Dec2024 23:54:13.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
+[19Dec2024 23:54:30.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! -15.04936933517456,0.7999999999999972,12.7554190158844
+[19Dec2024 23:54:30.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> no te escucho
