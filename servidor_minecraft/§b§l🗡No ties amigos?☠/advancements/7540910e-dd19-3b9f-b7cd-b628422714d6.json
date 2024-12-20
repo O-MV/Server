@@ -71,6 +71,7 @@
       "magnolia_highlands": "2024-12-11 07:30:12 +0000",
       "boreal_forest": "2024-12-14 04:59:16 +0000",
       "blackstone_basin": "2024-12-12 02:48:37 +0000",
+      "towering_cliffs": "2024-12-20 01:01:45 +0000",
       "cold_boreal_taiga": "2024-12-18 05:26:41 +0000",
       "temperate_grove": "2024-12-11 07:31:55 +0000",
       "cold_river": "2024-12-14 05:04:26 +0000",
@@ -97,6 +98,7 @@
       "frozen_pine_taiga": "2024-12-18 05:21:04 +0000",
       "magnolia_highlands": "2024-12-11 07:30:12 +0000",
       "boreal_forest": "2024-12-14 04:59:16 +0000",
+      "towering_cliffs": "2024-12-20 01:01:45 +0000",
       "cold_boreal_taiga": "2024-12-18 05:26:41 +0000",
       "temperate_grove": "2024-12-11 07:31:55 +0000",
       "cold_river": "2024-12-14 05:04:26 +0000",
@@ -131,6 +133,7 @@
       "willow_log": "2024-12-18 02:17:56 +0000",
       "yellow_bioshroom_stem": "2024-12-14 05:58:35 +0000",
       "blue_bioshroom_stem": "2024-12-11 06:37:35 +0000",
+      "pine_log": "2024-12-20 01:02:00 +0000",
       "silver_birch_log": "2024-12-11 21:29:03 +0000",
       "redwood_log": "2024-12-11 05:52:58 +0000",
       "green_bioshroom_stem": "2024-12-11 06:39:55 +0000"
@@ -6203,6 +6206,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 01:02:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2024-12-20 00:39:50 +0000"
@@ -6212,6 +6221,12 @@
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2024-12-20 00:26:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:11:17 +0000"
     },
     "done": true
   },
@@ -6257,6 +6272,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:11:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2024-12-20 00:39:50 +0000"
@@ -6272,6 +6293,18 @@
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2024-12-20 00:26:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:11:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:11:17 +0000"
     },
     "done": true
   },
@@ -6317,6 +6350,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2024-12-20 01:02:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:11:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_mud_bricks": "2024-12-20 00:26:35 +0000"
@@ -6335,6 +6380,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:11:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2024-12-20 00:39:50 +0000"
@@ -6344,6 +6395,12 @@
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2024-12-20 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:11:17 +0000"
     },
     "done": true
   },
@@ -6359,6 +6416,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:11:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:11:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2024-12-20 00:39:50 +0000"
@@ -6368,6 +6437,12 @@
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2024-12-20 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 01:02:00 +0000"
     },
     "done": true
   },

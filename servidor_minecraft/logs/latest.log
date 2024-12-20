@@ -90,3 +90,28 @@
 [20Dec2024 00:48:58.250] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [20Dec2024 00:53:24.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved wrongly!
 [20Dec2024 00:54:13.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Pic-A-Nic Basket?]
+[20Dec2024 00:58:51.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dragoljub'/25842, l='ServerLevel[🗡No ties amigos?☠]', x=773.08, y=69.50, z=-548.51] died, message: 'Dragoljub was slain by Zombie'
+[20Dec2024 00:58:51.877] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dragoljub'/25842, l='ServerLevel[🗡No ties amigos?☠]', x=773.08, y=69.50, z=-548.51] died: Dragoljub was slain by Zombie
+[20Dec2024 01:01:11.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> [x:864, y:72, z:133, dim:minecraft:overworld]
+[20Dec2024 01:01:29.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:984, y:69, z:-420, dim:minecraft:overworld]
+[20Dec2024 01:02:32.944] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 01:02:32.945] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 01:02:32.946] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 01:02:32.947] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 01:02:40.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Valtter'/29806, l='ServerLevel[🗡No ties amigos?☠]', x=842.22, y=64.00, z=-522.51] died: Valtter was slain by Maja
+[20Dec2024 01:03:09.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Živan'/29451, l='ServerLevel[🗡No ties amigos?☠]', x=881.51, y=73.32, z=-464.65] died, message: 'Živan tried to swim in lava'
+[20Dec2024 01:03:09.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Živan'/29451, l='ServerLevel[🗡No ties amigos?☠]', x=881.51, y=73.32, z=-464.65] died: Živan tried to swim in lava
+[20Dec2024 01:03:21.494] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 01:03:21.495] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 01:03:21.496] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 01:03:21.496] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 01:03:21.496] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 01:13:27.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1183, y:62, z:-255, dim:minecraft:overworld]
+[20Dec2024 01:13:33.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was turned to stone by Gorgon
+[20Dec2024 01:13:33.163] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[20Dec2024 01:13:43.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was turned into gorgonzola by Gorgon
+[20Dec2024 01:13:43.937] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[20Dec2024 01:13:43.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3896ms or 77 ticks behind
+[20Dec2024 01:14:03.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was turned into gorgonzola by Gorgon
+[20Dec2024 01:14:03.542] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[20Dec2024 01:14:18.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Clash of the Titans]
