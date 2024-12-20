@@ -200,3 +200,6 @@
 [20Dec2024 05:01:08.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
 [20Dec2024 05:01:08.775] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
 [20Dec2024 05:01:08.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4008ms or 80 ticks behind
+[20Dec2024 05:06:19.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[20Dec2024 05:06:19.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[20Dec2024 05:06:19.311] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
