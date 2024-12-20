@@ -195,3 +195,8 @@
 [20Dec2024 04:45:05.728] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [20Dec2024 04:45:05.734] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [20Dec2024 04:45:05.761] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[20Dec2024 05:01:04.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:51479] logged in with entity id 704 at (835.0, 63.0, -36.0)
+[20Dec2024 05:01:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[20Dec2024 05:01:08.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[20Dec2024 05:01:08.775] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[20Dec2024 05:01:08.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4008ms or 80 ticks behind
