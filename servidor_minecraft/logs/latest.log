@@ -40,3 +40,53 @@
 [20Dec2024 00:28:01.549] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [20Dec2024 00:28:01.821] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [20Dec2024 00:35:24.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Magic Writing]
+[20Dec2024 00:42:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Tie me to the Mast]
+[20Dec2024 00:43:22.201] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:43:22.202] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:43:22.202] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:43:22.202] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:43:31.439] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:43:31.442] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:43:31.443] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:43:31.443] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:43:31.444] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:44:50.395] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:44:56.546] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:44:56.552] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:44:56.556] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:44:56.557] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:44:56.656] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:44:56.657] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:44:56.658] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:44:56.659] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:00.006] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:00.007] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:00.008] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:00.008] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:00.008] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:00.686] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:00.686] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:03.268] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=431, y=-58, z=484}
+[20Dec2024 00:45:03.273] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=436, y=-58, z=476}
+[20Dec2024 00:45:03.274] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=435, y=-58, z=484}
+[20Dec2024 00:45:03.274] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=434, y=-58, z=484}
+[20Dec2024 00:45:03.275] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=432, y=-58, z=484}
+[20Dec2024 00:45:07.400] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:07.401] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:07.635] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:07.635] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:45:41.050] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-59, z=487}
+[20Dec2024 00:46:01.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu suffocated in a wall
+[20Dec2024 00:46:01.106] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[20Dec2024 00:46:01.107] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[20Dec2024 00:48:57.758] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:48:57.760] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:48:57.760] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:48:57.760] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:48:57.761] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:48:58.249] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:48:58.249] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:48:58.250] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:48:58.250] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 00:53:24.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved wrongly!
+[20Dec2024 00:54:13.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Pic-A-Nic Basket?]

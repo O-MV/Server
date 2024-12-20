@@ -2231,6 +2231,7 @@
       "bread": "2024-12-11 07:20:41 +0000",
       "rotten_flesh": "2024-12-14 08:14:13 +0000",
       "beetroot": "2024-12-11 07:41:55 +0000",
+      "cod": "2024-12-20 00:46:30 +0000",
       "carrot": "2024-12-12 05:06:52 +0000"
     },
     "done": false
@@ -6033,6 +6034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-20 00:49:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_lost_tablet": {
     "criteria": {
       "has_lost_tablet": "2024-12-20 00:13:58 +0000"
@@ -6045,15 +6052,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-20 00:49:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-20 00:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-20 00:12:06 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-20 00:42:51 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_lost_tablet_village": {
     "criteria": {
       "coded_trigger": "2024-12-20 00:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-20 00:42:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-20 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-20 00:35:24 +0000"
     },
     "done": true
   },
