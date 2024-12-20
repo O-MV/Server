@@ -234,3 +234,21 @@
 [20Dec2024 01:52:24.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> PRENDO MICRO
 [20Dec2024 01:56:37.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [I can't breathe]
 [20Dec2024 01:57:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
+[20Dec2024 01:58:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
+[20Dec2024 01:59:41.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram suffocated in a wall
+[20Dec2024 01:59:41.199] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[20Dec2024 01:59:41.201] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[20Dec2024 01:59:46.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram suffocated in a wall
+[20Dec2024 01:59:46.708] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[20Dec2024 02:02:22.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [I slipped]
+[20Dec2024 02:02:32.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN was kicked for floating too long!
+[20Dec2024 02:02:32.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Flying is not enabled on this server
+[20Dec2024 02:02:32.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[20Dec2024 02:02:32.077] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[20Dec2024 02:03:50.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:47859] logged in with entity id 71916 at (1025.0962943780294, 75.15523951406719, 165.09136070465303)
+[20Dec2024 02:03:50.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[20Dec2024 02:03:50.909] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[20Dec2024 02:03:50.910] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[20Dec2024 02:04:39.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sang'/71299, l='ServerLevel[🗡No ties amigos?☠]', x=1350.55, y=63.92, z=223.38] died, message: 'Sang was slain by Zombie'
+[20Dec2024 02:04:39.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sang'/71299, l='ServerLevel[🗡No ties amigos?☠]', x=1350.55, y=63.92, z=223.38] died: Sang was slain by Zombie
+[20Dec2024 02:05:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz supp

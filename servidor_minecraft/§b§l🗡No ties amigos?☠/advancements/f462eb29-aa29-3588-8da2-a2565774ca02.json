@@ -6593,6 +6593,13 @@
     },
     "done": true
   },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_suffocation": "2024-12-20 01:56:37 +0000",
+      "has_prevent_fall": "2024-12-20 02:02:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2024-12-20 01:11:02 +0000"
@@ -6659,6 +6666,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/prevent_death_fall": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 02:02:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2024-12-20 00:15:28 +0000"
@@ -6668,6 +6681,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-20 00:24:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_suffocation": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 01:56:37 +0000"
     },
     "done": true
   },
