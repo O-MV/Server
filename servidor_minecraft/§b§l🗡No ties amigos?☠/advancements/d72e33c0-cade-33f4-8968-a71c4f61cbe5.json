@@ -1027,6 +1027,7 @@
       "minecraft:jungle": "2024-12-11 06:30:09 +0000",
       "minecraft:ocean": "2024-12-11 18:42:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 02:02:38 +0000",
+      "minecraft:savanna": "2024-12-20 03:28:25 +0000",
       "minecraft:plains": "2024-12-11 19:17:24 +0000"
     },
     "done": false
@@ -6356,6 +6357,30 @@
     },
     "done": true
   },
+  "roost:woah_its_blue": {
+    "criteria": {
+      "woah_its_blue": "2024-12-20 03:22:13 +0000"
+    },
+    "done": true
+  },
+  "roost:inovations_in_combat": {
+    "criteria": {
+      "inovations_in_combat": "2024-12-20 03:23:35 +0000"
+    },
+    "done": true
+  },
+  "roost:roosting": {
+    "criteria": {
+      "roosting": "2024-12-20 03:22:07 +0000"
+    },
+    "done": true
+  },
+  "roost:gettin_grubby": {
+    "criteria": {
+      "gettin_grubby": "2024-12-20 03:21:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2024-12-20 03:11:23 +0000"
@@ -6365,6 +6390,24 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-12-20 03:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-20 03:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-20 03:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-20 03:34:07 +0000"
     },
     "done": true
   },

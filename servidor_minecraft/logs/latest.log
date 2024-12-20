@@ -1,497 +1,197 @@
-[20Dec2024 00:00:29.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> DISCORD
-[20Dec2024 00:01:46.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to manu
-[20Dec2024 00:02:04.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> s
-[20Dec2024 00:02:05.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Merja'/4276, l='ServerLevel[🗡No ties amigos?☠]', x=1826.67, y=65.00, z=767.95] died, message: 'Merja was slain by Zombie'
-[20Dec2024 00:02:05.327] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Merja'/4276, l='ServerLevel[🗡No ties amigos?☠]', x=1826.67, y=65.00, z=767.95] died: Merja was slain by Zombie
-[20Dec2024 00:13:25.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3431ms or 68 ticks behind
-[20Dec2024 00:13:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [An adventure awaits you]
-[20Dec2024 00:14:04.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to manu
-[20Dec2024 00:15:30.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has reached the goal [The treasure is at hand]
-[20Dec2024 00:16:48.750] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:16:48.757] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:18:24.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [An adventure awaits you]
-[20Dec2024 00:20:56.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5077ms or 101 ticks behind
-[20Dec2024 00:21:11.993] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:21:11.995] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:21:11.995] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:21:11.995] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:21:12.278] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:21:21.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> t
-[20Dec2024 00:21:23.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12153ms or 243 ticks behind
-[20Dec2024 00:21:25.558] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:21:25.562] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:21:25.563] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:21:25.564] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:22:38.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has reached the goal [A new home]
-[20Dec2024 00:25:53.863] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:25:53.864] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:25:53.865] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:25:53.865] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:26:04.821] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:27:55.469] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:27:55.470] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:27:55.471] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:27:55.649] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:27:55.650] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:27:55.650] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:28:01.547] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:28:01.548] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:28:01.549] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:28:01.549] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:28:01.821] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:35:24.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Magic Writing]
-[20Dec2024 00:42:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Tie me to the Mast]
-[20Dec2024 00:43:22.201] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:43:22.202] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:43:22.202] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:43:22.202] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:43:31.439] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:43:31.442] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:43:31.443] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:43:31.443] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:43:31.444] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:44:50.395] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:44:56.546] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:44:56.552] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:44:56.556] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:44:56.557] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:44:56.656] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:44:56.657] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:44:56.658] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:44:56.659] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:00.006] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:00.007] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:00.008] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:00.008] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:00.008] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:00.686] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:00.686] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:03.268] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=431, y=-58, z=484}
-[20Dec2024 00:45:03.273] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=436, y=-58, z=476}
-[20Dec2024 00:45:03.274] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=435, y=-58, z=484}
-[20Dec2024 00:45:03.274] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=434, y=-58, z=484}
-[20Dec2024 00:45:03.275] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=432, y=-58, z=484}
-[20Dec2024 00:45:07.400] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:07.401] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:07.635] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:07.635] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:45:41.050] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-59, z=487}
-[20Dec2024 00:46:01.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu suffocated in a wall
-[20Dec2024 00:46:01.106] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 00:46:01.107] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 00:48:57.758] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:48:57.760] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:48:57.760] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:48:57.760] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:48:57.761] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:48:58.249] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:48:58.249] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:48:58.250] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:48:58.250] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 00:53:24.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved wrongly!
-[20Dec2024 00:54:13.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Pic-A-Nic Basket?]
-[20Dec2024 00:58:51.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dragoljub'/25842, l='ServerLevel[🗡No ties amigos?☠]', x=773.08, y=69.50, z=-548.51] died, message: 'Dragoljub was slain by Zombie'
-[20Dec2024 00:58:51.877] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dragoljub'/25842, l='ServerLevel[🗡No ties amigos?☠]', x=773.08, y=69.50, z=-548.51] died: Dragoljub was slain by Zombie
-[20Dec2024 01:01:11.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> [x:864, y:72, z:133, dim:minecraft:overworld]
-[20Dec2024 01:01:29.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:984, y:69, z:-420, dim:minecraft:overworld]
-[20Dec2024 01:02:32.944] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:02:32.945] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:02:32.946] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:02:32.947] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:02:40.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Valtter'/29806, l='ServerLevel[🗡No ties amigos?☠]', x=842.22, y=64.00, z=-522.51] died: Valtter was slain by Maja
-[20Dec2024 01:03:09.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Živan'/29451, l='ServerLevel[🗡No ties amigos?☠]', x=881.51, y=73.32, z=-464.65] died, message: 'Živan tried to swim in lava'
-[20Dec2024 01:03:09.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Živan'/29451, l='ServerLevel[🗡No ties amigos?☠]', x=881.51, y=73.32, z=-464.65] died: Živan tried to swim in lava
-[20Dec2024 01:03:21.494] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:03:21.495] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:03:21.496] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:03:21.496] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:03:21.496] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:13:27.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1183, y:62, z:-255, dim:minecraft:overworld]
-[20Dec2024 01:13:33.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was turned to stone by Gorgon
-[20Dec2024 01:13:33.163] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 01:13:43.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was turned into gorgonzola by Gorgon
-[20Dec2024 01:13:43.937] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 01:13:43.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3896ms or 77 ticks behind
-[20Dec2024 01:14:03.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was turned into gorgonzola by Gorgon
-[20Dec2024 01:14:03.542] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 01:14:18.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Clash of the Titans]
-[20Dec2024 01:19:56.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> arriva las chivas
-[20Dec2024 01:20:01.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> irelia difff
-[20Dec2024 01:20:47.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
-[20Dec2024 01:20:48.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
-[20Dec2024 01:20:49.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
-[20Dec2024 01:20:50.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz
-[20Dec2024 01:21:04.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
-[20Dec2024 01:21:06.038] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:06.039] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:06.040] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:06.040] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:06.531] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:06.538] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:06.538] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:06.539] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:09.292] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:09.293] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:09.890] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:09.890] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:10.634] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:10.636] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:10.636] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:10.636] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:10.636] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:10.759] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:10.760] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:21:13.805] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:24:58.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was frozen by Ice Dragon
-[20Dec2024 01:24:58.922] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[20Dec2024 01:24:58.931] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 01:25:04.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was pricked to death
-[20Dec2024 01:25:04.034] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 01:25:08.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> ffff
-[20Dec2024 01:25:13.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> ahora si quedo todo tieso
-[20Dec2024 01:26:14.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was frozen by Ice Dragon
-[20Dec2024 01:26:14.370] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 01:26:14.378] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 01:26:44.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> awanta
-[20Dec2024 01:26:51.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Ice Dragon
-[20Dec2024 01:26:51.576] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[20Dec2024 01:26:51.593] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 01:27:00.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> voy
-[20Dec2024 01:27:13.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Ice Dragon
-[20Dec2024 01:27:13.568] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 01:27:13.579] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 01:27:20.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> jajajjaaj
-[20Dec2024 01:27:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was slain by Ice Dragon
-[20Dec2024 01:28:57.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was frozen by Ice Dragon
-[20Dec2024 01:28:57.872] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[20Dec2024 01:28:57.880] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 01:28:58.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> ya lo mato??
-[20Dec2024 01:29:57.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was turned to ice by a dragon
-[20Dec2024 01:30:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was turned to ice by Ice Dragon
-[20Dec2024 01:30:22.421] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 01:30:22.427] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 01:30:28.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was frozen by a dragon
-[20Dec2024 01:30:46.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was turned to ice by Ice Dragon
-[20Dec2024 01:30:46.871] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 01:30:46.879] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 01:30:57.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Dragonslayer]
-[20Dec2024 01:31:20.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was turned to ice by a dragon
-[20Dec2024 01:31:23.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Herc was on a Roll!]
-[20Dec2024 01:31:46.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
-[20Dec2024 01:32:53.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Rotten to the Core]
-[20Dec2024 01:35:17.474] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=620, y=-53, z=861}
-[20Dec2024 01:35:17.475] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=613, y=-54, z=865}
-[20Dec2024 01:35:20.576] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=610, y=-53, z=861}
-[20Dec2024 01:35:23.630] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=835, y=-58, z=860}
-[20Dec2024 01:35:23.828] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=505, y=-58, z=850}
-[20Dec2024 01:35:28.880] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=808, y=-59, z=866}
-[20Dec2024 01:35:28.881] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=809, y=-59, z=867}
-[20Dec2024 01:35:28.882] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=807, y=-59, z=867}
-[20Dec2024 01:35:30.992] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=808, y=-59, z=866}
-[20Dec2024 01:35:30.993] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=809, y=-59, z=867}
-[20Dec2024 01:35:30.993] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=807, y=-59, z=867}
-[20Dec2024 01:35:34.757] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:35:34.760] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:35:34.761] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:35:34.762] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:35:34.764] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:35:34.776] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:35:34.777] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:35:35.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 1.506352237349347,-1.149200019741059,10.118900132900308
-[20Dec2024 01:35:36.745] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:35:36.747] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 01:35:44.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1493, y:62, z:176, dim:minecraft:overworld]
-[20Dec2024 01:36:29.188] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=835, y=-58, z=860}
-[20Dec2024 01:36:38.642] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-58, z=865}
-[20Dec2024 01:36:38.644] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-58, z=867}
-[20Dec2024 01:36:38.645] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=718, y=-59, z=866}
-[20Dec2024 01:36:38.709] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=505, y=-58, z=850}
-[20Dec2024 01:36:45.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[20Dec2024 01:37:03.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3313ms or 66 ticks behind
-[20Dec2024 01:38:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> mmmm ni idea
-[20Dec2024 01:39:26.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=940, y=65, z=188} BlockPos{x=941, y=64, z=188}
-[20Dec2024 01:40:46.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to manu
-[20Dec2024 01:43:11.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
-[20Dec2024 01:43:11.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
-[20Dec2024 01:43:11.685] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
-[20Dec2024 01:43:11.735] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[20Dec2024 01:43:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[20Dec2024 01:44:53.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. %1$s was slain by %2$s
-[20Dec2024 01:44:53.082] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[20Dec2024 01:44:53.095] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[20Dec2024 01:44:59.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
-[20Dec2024 01:47:50.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Poseidon, God of the Seas]
-[20Dec2024 01:48:38.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:47727] logged in with entity id 61545 at (1430.6127471577115, 72.0, 301.2452390529736)
-[20Dec2024 01:48:38.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
-[20Dec2024 01:48:40.024] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
-[20Dec2024 01:48:40.027] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
-[20Dec2024 01:48:40.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[20Dec2024 01:50:26.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. %1$s was slain by %2$s
-[20Dec2024 01:50:26.568] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 01:50:26.583] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 01:50:32.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
-[20Dec2024 01:52:21.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> AGUNTA AHORITA
-[20Dec2024 01:52:24.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> PRENDO MICRO
-[20Dec2024 01:56:37.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [I can't breathe]
-[20Dec2024 01:57:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ram to ADMIN
-[20Dec2024 01:58:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
-[20Dec2024 01:59:41.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram suffocated in a wall
-[20Dec2024 01:59:41.199] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[20Dec2024 01:59:41.201] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 01:59:46.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram suffocated in a wall
-[20Dec2024 01:59:46.708] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 02:02:22.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [I slipped]
-[20Dec2024 02:02:32.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN was kicked for floating too long!
-[20Dec2024 02:02:32.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Flying is not enabled on this server
-[20Dec2024 02:02:32.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
-[20Dec2024 02:02:32.077] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
-[20Dec2024 02:03:50.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:47859] logged in with entity id 71916 at (1025.0962943780294, 75.15523951406719, 165.09136070465303)
-[20Dec2024 02:03:50.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
-[20Dec2024 02:03:50.909] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
-[20Dec2024 02:03:50.910] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
-[20Dec2024 02:04:39.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sang'/71299, l='ServerLevel[🗡No ties amigos?☠]', x=1350.55, y=63.92, z=223.38] died, message: 'Sang was slain by Zombie'
-[20Dec2024 02:04:39.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sang'/71299, l='ServerLevel[🗡No ties amigos?☠]', x=1350.55, y=63.92, z=223.38] died: Sang was slain by Zombie
-[20Dec2024 02:05:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz supp
-[20Dec2024 02:09:39.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Take Aim]
-[20Dec2024 02:11:16.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Elite Skeleton
-[20Dec2024 02:11:16.081] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[20Dec2024 02:11:16.084] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 02:12:16.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by Elite Skeleton
-[20Dec2024 02:12:36.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Elite Skeleton
-[20Dec2024 02:12:36.727] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 02:12:36.731] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 02:12:47.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Elite Skeleton
-[20Dec2024 02:13:12.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Elite Skeleton
-[20Dec2024 02:13:12.280] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[20Dec2024 02:13:12.281] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 02:14:01.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
-[20Dec2024 02:14:01.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
-[20Dec2024 02:14:01.230] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
-[20Dec2024 02:14:12.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by Elite Skeleton
-[20Dec2024 02:14:23.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Discreet Search]
-[20Dec2024 02:15:47.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Simple Turret
-[20Dec2024 02:15:47.871] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[20Dec2024 02:15:47.875] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 02:16:20.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was doomed to fall by Elite Skeleton
-[20Dec2024 02:16:20.722] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 02:16:20.723] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 02:16:26.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was doomed to fall by Elite Skeleton
-[20Dec2024 02:16:33.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Simple Turret
-[20Dec2024 02:16:33.475] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[20Dec2024 02:16:33.479] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 02:17:33.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by Simple Turret
-[20Dec2024 02:17:52.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> e
-[20Dec2024 02:17:57.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> jwa
-[20Dec2024 02:18:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Simple Turret
-[20Dec2024 02:18:22.494] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 02:18:22.497] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 02:18:31.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Simple Turret
-[20Dec2024 02:19:11.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [First Step]
-[20Dec2024 02:20:17.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Simple Turret
-[20Dec2024 02:20:17.023] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 02:20:17.025] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 02:20:29.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Simple Turret
-[20Dec2024 02:20:43.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:49163] logged in with entity id 80311 at (859.7204689226729, 68.0625, 131.95587680030943)
-[20Dec2024 02:20:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
-[20Dec2024 02:20:44.199] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
-[20Dec2024 02:20:44.201] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
-[20Dec2024 02:20:56.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Ghost
-[20Dec2024 02:20:56.040] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[20Dec2024 02:20:56.063] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[20Dec2024 02:21:31.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Andrea'/80408, l='ServerLevel[🗡No ties amigos?☠]', x=774.61, y=46.00, z=183.26] died, message: 'Andrea was blown up by Troll'
-[20Dec2024 02:21:31.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Andrea'/80408, l='ServerLevel[🗡No ties amigos?☠]', x=774.61, y=46.00, z=183.26] died: Andrea was blown up by Troll
-[20Dec2024 02:21:32.473] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Heink'/80409, l='ServerLevel[🗡No ties amigos?☠]', x=773.58, y=45.17, z=181.18] died, message: 'Heink was slain by Troll'
-[20Dec2024 02:21:32.473] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Heink'/80409, l='ServerLevel[🗡No ties amigos?☠]', x=773.58, y=45.17, z=181.18] died: Heink was slain by Troll
-[20Dec2024 02:21:33.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Ghost
-[20Dec2024 02:21:33.278] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 02:21:33.293] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 02:21:39.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Ghost
-[20Dec2024 02:21:55.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was slain by Ghost
-[20Dec2024 02:27:19.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Simple Turret
-[20Dec2024 02:27:19.326] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 02:27:19.327] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 02:27:25.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Simple Turret
-[20Dec2024 02:41:06.797] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:41:10.388] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:41:10.392] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:41:10.392] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:41:10.392] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:41:10.724] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:41:10.725] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:41:10.725] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:41:10.725] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:41:41.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -5.861630067308397,-3.324473125962129,-7.512694981082859
-[20Dec2024 02:41:41.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
-[20Dec2024 02:42:15.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3315ms or 66 ticks behind
-[20Dec2024 02:42:15.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -9.303338013861321,-3.4592582530816713,-1.6877595515491066
-[20Dec2024 02:42:23.427] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:42:23.429] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:42:23.429] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:42:23.430] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:42:27.992] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:42:28.005] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:42:28.006] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:42:28.006] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:42:28.006] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:30.993] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:31.002] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:31.005] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:31.420] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:37.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[20Dec2024 02:43:41.373] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:41.373] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:41.536] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:41.536] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:41.536] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:41.536] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:41.537] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:41.537] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:41.538] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:41.538] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:41.539] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:41.539] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:43:54.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! -9.939814260697517,-1.5358406250445569,-1.5384695463809521
-[20Dec2024 02:43:55.575] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player manu just tried to change non-editable sign
-[20Dec2024 02:43:55.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3376ms or 67 ticks behind
-[20Dec2024 02:43:56.747] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player manu just tried to change non-editable sign
-[20Dec2024 02:44:05.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -2.3976401282911866,1.1144938926720869,-9.805110677132461
-[20Dec2024 02:44:30.287] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:44:30.289] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:44:30.289] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:44:30.290] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:44:30.301] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:44:32.095] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:44:32.096] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:44:32.097] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:44:32.112] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:44:32.113] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:44:32.116] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:44:44.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[20Dec2024 02:54:32.188] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:41.065] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:41.068] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:41.069] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:41.070] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:41.325] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:41.326] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:41.326] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:41.326] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:43.143] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:43.148] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:43.150] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:43.151] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:45.349] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:45.351] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:45.353] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:45.354] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:54:45.356] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:09.037] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:09.040] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:09.041] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:09.316] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:09.317] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:09.317] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:15.360] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:15.362] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:15.362] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:15.362] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:15.491] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:58:31.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Elite Skeleton
-[20Dec2024 02:58:31.722] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[20Dec2024 02:58:31.732] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[20Dec2024 02:58:53.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported manu to ADMIN
-[20Dec2024 02:59:01.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Elite Skeleton
-[20Dec2024 02:59:01.937] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 02:59:01.941] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 02:59:08.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Elite Skeleton
-[20Dec2024 02:59:12.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
-[20Dec2024 02:59:18.359] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:59:18.364] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:59:18.365] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:59:18.366] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:59:20.683] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:59:20.685] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:59:20.687] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:59:20.689] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:59:24.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ADMIN to ram
-[20Dec2024 02:59:28.679] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 02:59:36.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3676ms or 73 ticks behind
-[20Dec2024 02:59:36.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:-604, y:62, z:628, dim:minecraft:overworld]j
-[20Dec2024 02:59:37.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was shot by Elite Skeleton
-[20Dec2024 02:59:53.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[20Dec2024 02:59:55.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[20Dec2024 03:01:08.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
-[20Dec2024 03:01:44.884] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:02:01.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Ice Dragon
-[20Dec2024 03:02:01.227] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[20Dec2024 03:02:01.237] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[20Dec2024 03:02:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was slain by Ice Dragon
-[20Dec2024 03:02:43.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Ice Dragon
-[20Dec2024 03:02:43.125] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[20Dec2024 03:02:43.133] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[20Dec2024 03:02:48.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was slain by Ice Dragon
-[20Dec2024 03:03:03.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Dragonslayer]
-[20Dec2024 03:03:47.403] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:03:47.405] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:03:47.405] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:03:47.406] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:03:47.825] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:03:47.826] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:03:47.827] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:03:47.828] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:04:38.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
-[20Dec2024 03:04:38.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
-[20Dec2024 03:04:38.825] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
-[20Dec2024 03:07:16.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by ADMIN
-[20Dec2024 03:07:16.121] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[20Dec2024 03:07:16.123] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[20Dec2024 03:07:51.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Disconnected
-[20Dec2024 03:07:51.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
-[20Dec2024 03:07:51.369] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
-[20Dec2024 03:08:01.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
-[20Dec2024 03:08:01.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
-[20Dec2024 03:08:01.517] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
-[20Dec2024 03:08:18.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:38923] logged in with entity id 113210 at (-703.8673201753455, 61.52440968304653, 628.5323698496105)
-[20Dec2024 03:08:18.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
-[20Dec2024 03:08:20.248] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
-[20Dec2024 03:08:20.252] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
-[20Dec2024 03:11:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Where Is The Stone Pen?]
-[20Dec2024 03:12:59.355] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:12:59.357] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:12:59.357] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:12:59.358] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:02.548] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:02.548] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:02.549] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:02.549] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:02.549] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:38.343] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:38.345] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:38.545] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:38.545] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:38.546] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:38.546] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:38.547] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:40.490] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:40.490] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:40.498] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:13:40.499] [Worker-Main-31/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:14:14.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.7047726092988569
-[20Dec2024 03:14:14.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 1.0624015901323673
-[20Dec2024 03:14:14.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 1.422632123185167
-[20Dec2024 03:14:14.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.36330972373173154
-[20Dec2024 03:14:14.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.3650514628666315
-[20Dec2024 03:14:14.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.7062586757621148
-[20Dec2024 03:14:14.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.7437788906773903
-[20Dec2024 03:15:30.732] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:15:30.733] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:15:32.883] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:15:32.884] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:15:43.502] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:15:43.503] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:15:43.503] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:15:43.503] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:15:43.503] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:15:43.594] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:15:43.595] [Worker-Main-30/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[20Dec2024 03:16:57.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Ambush]
+[20Dec2024 04:43:02.288] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[20Dec2024 04:43:02.293] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[20Dec2024 04:43:05.288] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[20Dec2024 04:43:05.370] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[20Dec2024 04:43:06.412] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[20Dec2024 04:43:06.414] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Dec2024 04:43:06.418] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Dec2024 04:43:06.421] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Dec2024 04:43:06.862] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[20Dec2024 04:43:14.907] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Dec2024 04:43:14.952] [main/ERROR] [mixin/]: Mixin config cannibal.mixin.json does not specify "minVersion" property
+[20Dec2024 04:43:15.262] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[20Dec2024 04:43:15.273] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[20Dec2024 04:43:15.995] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Dec2024 04:43:20.479] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
+[20Dec2024 04:43:49.218] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[20Dec2024 04:43:51.596] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[20Dec2024 04:43:51.596] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[20Dec2024 04:44:00.671] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.672] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.673] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.673] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.674] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.674] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.674] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.674] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Dec2024 04:44:00.676] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.676] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.676] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.678] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.678] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.679] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.680] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.680] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.681] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.682] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.682] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.683] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Dec2024 04:44:00.684] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.689] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.690] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Dec2024 04:44:00.690] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.691] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Dec2024 04:44:00.691] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Dec2024 04:44:00.691] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.691] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.692] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.692] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.692] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.694] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.703] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.703] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.705] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.705] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.705] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:00.706] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Dec2024 04:44:01.512] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[20Dec2024 04:44:01.732] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[20Dec2024 04:44:01.764] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[20Dec2024 04:44:01.766] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[20Dec2024 04:44:01.794] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[20Dec2024 04:44:01.797] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[20Dec2024 04:44:01.799] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[20Dec2024 04:44:02.121] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[20Dec2024 04:44:02.490] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[20Dec2024 04:44:02.494] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[20Dec2024 04:44:02.496] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[20Dec2024 04:44:02.498] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[20Dec2024 04:44:02.499] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[20Dec2024 04:44:02.711] [main/INFO] [journeymap/]: Initializing Packet Registries
+[20Dec2024 04:44:02.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[20Dec2024 04:44:02.770] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[20Dec2024 04:44:02.988] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:core at mcp.mobius.waila.plugin.core.WailaPluginCore
+[20Dec2024 04:44:03.007] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaPluginVanilla
+[20Dec2024 04:44:03.049] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:harvest at mcp.mobius.waila.plugin.harvest.WailaPluginHarvest
+[20Dec2024 04:44:03.053] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:forge at mcp.mobius.waila.plugin.forge.WailaPluginForge
+[20Dec2024 04:44:03.057] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin securitycraft:plugin at net.geforcemods.securitycraft.compat.hudmods.WTHITDataProvider
+[20Dec2024 04:44:03.057] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:extra at mcp.mobius.waila.plugin.extra.WailaPluginExtra
+[20Dec2024 04:44:03.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[20Dec2024 04:44:03.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[20Dec2024 04:44:03.142] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[20Dec2024 04:44:03.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.10 Target: 1.9.12
+[20Dec2024 04:44:03.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[20Dec2024 04:44:03.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 8.8.6
+[20Dec2024 04:44:03.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[20Dec2024 04:44:04.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
+[20Dec2024 04:44:04.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[20Dec2024 04:44:04.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
+[20Dec2024 04:44:04.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Dec2024 04:44:04.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[20Dec2024 04:44:13.537] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Dec2024 04:44:19.539] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
+[20Dec2024 04:44:19.539] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
+[20Dec2024 04:44:23.915] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[20Dec2024 04:44:30.196] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:roost:entities/roost_rider}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Dec2024 04:44:30.197] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/villager}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Dec2024 04:44:30.390] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[20Dec2024 04:44:30.789] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:ocarina_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@56f2f78a, rewards=AdvancementRewards{experience=60, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@36c5ff40}, criteria={ocarina_advancement_0=net.minecraft.advancements.Criterion@6cea5871}, requirements=[[ocarina_advancement_0]], sends_telemetry_event=false}
+[20Dec2024 04:44:30.790] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:fairy_advancement: Task Advancement{parentId=terramity:deleted_mod_element, display=net.minecraft.advancements.DisplayInfo@37a85d53, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@36c5ff40}, criteria={fairy_advancement_0=net.minecraft.advancements.Criterion@93fb207}, requirements=[[fairy_advancement_0]], sends_telemetry_event=false}
+[20Dec2024 04:44:30.792] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:frenzied_flame_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@124bb5ef, rewards=AdvancementRewards{experience=100, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@36c5ff40}, criteria={frenzied_flame_advancement_0=net.minecraft.advancements.Criterion@6610922b}, requirements=[[frenzied_flame_advancement_0]], sends_telemetry_event=false}
+[20Dec2024 04:44:30.792] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:microcosm_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@5a9ed9c2, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@36c5ff40}, criteria={microcosm_advancement_0=net.minecraft.advancements.Criterion@387d9970}, requirements=[[microcosm_advancement_0]], sends_telemetry_event=false}
+[20Dec2024 04:44:30.793] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:opaline_moonstone_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@66dad534, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@36c5ff40}, criteria={opaline_moonstone_advancement_0=net.minecraft.advancements.Criterion@32b86686}, requirements=[[opaline_moonstone_advancement_0]], sends_telemetry_event=false}
+[20Dec2024 04:44:30.793] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:prismatic_jewel_advancement: Task Advancement{parentId=terramity:fairy_advancement, display=net.minecraft.advancements.DisplayInfo@536bcb7e, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@36c5ff40}, criteria={prismatic_jewel_advancement_0=net.minecraft.advancements.Criterion@22161bc3}, requirements=[[prismatic_jewel_advancement_0]], sends_telemetry_event=false}
+[20Dec2024 04:44:30.794] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:angel_feather_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@7b161212, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@36c5ff40}, criteria={angel_feather_advancement_0=net.minecraft.advancements.Criterion@69ccd6b0}, requirements=[[angel_feather_advancement_0]], sends_telemetry_event=false}
+[20Dec2024 04:44:30.794] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4463 advancements
+[20Dec2024 04:44:30.816] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[20Dec2024 04:44:30.822] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[20Dec2024 04:44:34.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[20Dec2024 04:44:34.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Dec2024 04:44:34.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Dec2024 04:44:34.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Dec2024 04:44:34.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Dec2024 04:44:35.021] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Dec2024 04:44:35.100] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Dec2024 04:44:35.103] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Dec2024 04:44:35.105] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Dec2024 04:44:35.108] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Dec2024 04:44:35.249] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[20Dec2024 04:44:35.253] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[20Dec2024 04:44:36.741] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[20Dec2024 04:44:36.750] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[20Dec2024 04:44:36.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "🗡No ties amigos?☠"
+[20Dec2024 04:44:38.086] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.087] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.088] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.089] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.090] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.091] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.092] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.093] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Dec2024 04:44:38.093] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.094] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.095] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.096] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.097] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.098] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.098] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.099] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.100] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.101] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.101] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.102] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Dec2024 04:44:38.103] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.104] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.104] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Dec2024 04:44:38.105] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.106] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Dec2024 04:44:38.107] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[20Dec2024 04:44:38.108] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.108] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.109] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.110] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.111] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.111] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.112] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.113] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.114] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.114] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:38.115] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[20Dec2024 04:44:52.644] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[20Dec2024 04:44:52.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Dec2024 04:45:01.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.039] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.145] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.173] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.237] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.251] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.264] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.265] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.281] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.323] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.339] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.350] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.362] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.399] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.413] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.441] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.464] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.477] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.480] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:02.890] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:03.150] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:03.650] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:04.150] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:04.684] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 04:45:05.150] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[20Dec2024 04:45:05.304] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12654 ms
+[20Dec2024 04:45:05.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (30.070s)! For help, type "help"
+[20Dec2024 04:45:05.412] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Dec2024 04:45:05.425] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[20Dec2024 04:45:05.469] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[20Dec2024 04:45:05.472] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[20Dec2024 04:45:05.726] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 161719 bytes (in 17 string chunks with the size of 10000)
+[20Dec2024 04:45:05.728] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[20Dec2024 04:45:05.734] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20Dec2024 04:45:05.761] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
