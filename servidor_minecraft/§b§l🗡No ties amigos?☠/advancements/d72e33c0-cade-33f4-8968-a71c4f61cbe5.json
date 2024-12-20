@@ -56,6 +56,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2024-12-11 19:29:28 +0000",
+      "fen": "2024-12-20 01:24:58 +0000",
       "muddy_river": "2024-12-20 01:05:47 +0000",
       "willow_forest": "2024-12-11 07:35:47 +0000",
       "frozen_tundra": "2024-12-19 23:54:13 +0000",
@@ -73,6 +74,7 @@
       "cold_river": "2024-12-14 04:19:15 +0000",
       "gravel_beach": "2024-12-11 19:29:34 +0000",
       "redwoods": "2024-12-11 05:54:45 +0000",
+      "golden_boreal_taiga": "2024-12-20 01:23:22 +0000",
       "bioshroom_caves": "2024-12-11 06:15:31 +0000",
       "lupine_plains": "2024-12-11 07:25:35 +0000"
     },
@@ -81,6 +83,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2024-12-11 19:29:28 +0000",
+      "fen": "2024-12-20 01:24:58 +0000",
       "muddy_river": "2024-12-20 01:05:47 +0000",
       "willow_forest": "2024-12-11 07:35:47 +0000",
       "frozen_tundra": "2024-12-19 23:54:13 +0000",
@@ -95,6 +98,7 @@
       "cold_river": "2024-12-14 04:19:15 +0000",
       "gravel_beach": "2024-12-11 19:29:34 +0000",
       "redwoods": "2024-12-11 05:54:45 +0000",
+      "golden_boreal_taiga": "2024-12-20 01:23:22 +0000",
       "lupine_plains": "2024-12-11 07:25:35 +0000"
     },
     "done": false
@@ -122,6 +126,7 @@
       "magnolia_log": "2024-12-12 01:39:58 +0000",
       "willow_log": "2024-12-12 01:39:15 +0000",
       "yellow_bioshroom_stem": "2024-12-12 14:36:49 +0000",
+      "pine_log": "2024-12-20 01:31:05 +0000",
       "silver_birch_log": "2024-12-11 19:29:36 +0000",
       "cobalt_log": "2024-12-12 02:46:17 +0000",
       "redwood_log": "2024-12-11 05:54:49 +0000",
@@ -1001,11 +1006,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-20 01:24:11 +0000",
+      "minecraft:taiga": "2024-12-20 01:21:55 +0000",
       "minecraft:beach": "2024-12-11 18:39:05 +0000",
       "minecraft:river": "2024-12-11 06:00:41 +0000",
       "minecraft:lukewarm_ocean": "2024-12-12 06:14:23 +0000",
       "minecraft:stony_shore": "2024-12-11 07:31:57 +0000",
       "minecraft:snowy_taiga": "2024-12-18 05:35:01 +0000",
+      "minecraft:swamp": "2024-12-20 01:24:52 +0000",
       "minecraft:cold_ocean": "2024-12-12 03:43:27 +0000",
       "minecraft:forest": "2024-12-11 18:37:55 +0000",
       "minecraft:lush_caves": "2024-12-11 06:26:30 +0000",
@@ -6040,15 +6048,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
-      "has_golden_sword": "2024-12-20 00:49:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2024-12-20 00:54:04 +0000"
+      "has_tripwire_hook": "2024-12-20 00:12:06 +0000"
     },
     "done": true
   },
@@ -6064,9 +6066,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "tombstone:adventure/find_lost_tablet_village": {
     "criteria": {
-      "has_golden_sword": "2024-12-20 00:49:41 +0000"
+      "coded_trigger": "2024-12-20 00:22:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-20 00:35:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-20 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-20 00:42:51 +0000"
     },
     "done": true
   },
@@ -6076,15 +6096,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapped_chest": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "has_tripwire_hook": "2024-12-20 00:12:06 +0000"
+      "has_prismarine_crystals": "2024-12-20 00:42:55 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_siren": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-20 00:42:51 +0000"
+      "has_golden_sword": "2024-12-20 00:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-20 00:49:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 00:54:04 +0000"
     },
     "done": true
   },
@@ -6106,27 +6138,105 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_lost_tablet_village": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "coded_trigger": "2024-12-20 00:22:38 +0000"
+      "killed_ice_dragon": "2024-12-20 01:30:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
     "criteria": {
-      "has_prismarine_crystals": "2024-12-20 00:42:55 +0000"
+      "has_logs": "2024-12-20 01:31:05 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_owner_changer": {
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
     "criteria": {
-      "has_name_tag": "2024-12-20 00:38:26 +0000"
+      "has_log": "2024-12-20 01:31:05 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "regions_unexplored:recipes/misc/brown_dye_from_cattail": {
     "criteria": {
-      "has_magic_scroll": "2024-12-20 00:35:24 +0000"
+      "has_cattail": "2024-12-20 01:31:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 01:31:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-20 01:31:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2024-12-20 01:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-20 01:40:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-20 01:40:14 +0000"
     },
     "done": true
   },

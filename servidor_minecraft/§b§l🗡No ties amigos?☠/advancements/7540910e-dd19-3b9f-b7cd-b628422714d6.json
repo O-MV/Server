@@ -56,8 +56,10 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2024-12-11 21:29:04 +0000",
+      "fen": "2024-12-20 01:25:02 +0000",
       "pine_taiga": "2024-12-14 04:58:57 +0000",
       "autumnal_maple_forest": "2024-12-20 00:24:15 +0000",
+      "muddy_river": "2024-12-20 01:14:16 +0000",
       "ancient_delta": "2024-12-12 06:42:09 +0000",
       "willow_forest": "2024-12-11 07:35:49 +0000",
       "frozen_tundra": "2024-12-18 05:17:48 +0000",
@@ -78,6 +80,7 @@
       "spires": "2024-12-18 05:27:20 +0000",
       "gravel_beach": "2024-12-14 04:59:29 +0000",
       "redwoods": "2024-12-11 05:52:51 +0000",
+      "golden_boreal_taiga": "2024-12-20 01:30:12 +0000",
       "icy_heights": "2024-12-18 06:09:49 +0000",
       "bioshroom_caves": "2024-12-11 06:13:20 +0000",
       "lupine_plains": "2024-12-11 07:29:21 +0000"
@@ -87,8 +90,10 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2024-12-11 21:29:04 +0000",
+      "fen": "2024-12-20 01:25:02 +0000",
       "pine_taiga": "2024-12-14 04:58:57 +0000",
       "autumnal_maple_forest": "2024-12-20 00:24:15 +0000",
+      "muddy_river": "2024-12-20 01:14:16 +0000",
       "willow_forest": "2024-12-11 07:35:49 +0000",
       "frozen_tundra": "2024-12-18 05:17:48 +0000",
       "grassy_beach": "2024-12-11 05:52:02 +0000",
@@ -105,6 +110,7 @@
       "spires": "2024-12-18 05:27:20 +0000",
       "gravel_beach": "2024-12-14 04:59:29 +0000",
       "redwoods": "2024-12-11 05:52:51 +0000",
+      "golden_boreal_taiga": "2024-12-20 01:30:12 +0000",
       "icy_heights": "2024-12-18 06:09:49 +0000",
       "lupine_plains": "2024-12-11 07:29:21 +0000"
     },
@@ -6218,6 +6224,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2024-12-20 01:21:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2024-12-20 00:26:35 +0000"
@@ -6308,6 +6320,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2024-12-20 01:39:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2024-12-20 00:39:50 +0000"
@@ -6341,6 +6359,12 @@
   "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-20 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-20 01:30:51 +0000"
     },
     "done": true
   },
@@ -6440,6 +6464,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-20 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-20 01:14:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pine_wood": {
     "criteria": {
       "has_log": "2024-12-20 01:02:00 +0000"
@@ -6449,6 +6485,12 @@
   "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-20 00:39:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2024-12-20 01:21:18 +0000"
     },
     "done": true
   },

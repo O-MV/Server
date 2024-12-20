@@ -71,6 +71,7 @@
       "magnolia_highlands": "2024-12-11 06:51:51 +0000",
       "boreal_forest": "2024-12-12 07:31:45 +0000",
       "blackstone_basin": "2024-12-12 02:46:37 +0000",
+      "towering_cliffs": "2024-12-20 01:42:02 +0000",
       "infernal_holt": "2024-12-12 03:00:26 +0000",
       "temperate_grove": "2024-12-11 06:52:18 +0000",
       "cold_river": "2024-12-14 05:28:17 +0000",
@@ -96,6 +97,7 @@
       "frozen_pine_taiga": "2024-12-18 05:22:41 +0000",
       "magnolia_highlands": "2024-12-11 06:51:51 +0000",
       "boreal_forest": "2024-12-12 07:31:45 +0000",
+      "towering_cliffs": "2024-12-20 01:42:02 +0000",
       "temperate_grove": "2024-12-11 06:52:18 +0000",
       "cold_river": "2024-12-14 05:28:17 +0000",
       "gravel_beach": "2024-12-14 04:57:54 +0000",
@@ -6567,6 +6569,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2024-12-20 01:47:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-20 00:24:06 +0000"
@@ -6576,6 +6584,12 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2024-12-20 00:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-20 01:15:03 +0000"
     },
     "done": true
   },
@@ -6618,6 +6632,12 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2024-12-20 00:24:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-20 01:32:53 +0000"
     },
     "done": true
   },
