@@ -252,3 +252,36 @@
 [20Dec2024 02:04:39.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sang'/71299, l='ServerLevel[🗡No ties amigos?☠]', x=1350.55, y=63.92, z=223.38] died, message: 'Sang was slain by Zombie'
 [20Dec2024 02:04:39.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sang'/71299, l='ServerLevel[🗡No ties amigos?☠]', x=1350.55, y=63.92, z=223.38] died: Sang was slain by Zombie
 [20Dec2024 02:05:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> zzz supp
+[20Dec2024 02:09:39.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Take Aim]
+[20Dec2024 02:11:16.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Elite Skeleton
+[20Dec2024 02:11:16.081] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[20Dec2024 02:11:16.084] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[20Dec2024 02:12:16.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by Elite Skeleton
+[20Dec2024 02:12:36.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Elite Skeleton
+[20Dec2024 02:12:36.727] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[20Dec2024 02:12:36.731] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[20Dec2024 02:12:47.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Elite Skeleton
+[20Dec2024 02:13:12.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Elite Skeleton
+[20Dec2024 02:13:12.280] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[20Dec2024 02:13:12.281] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[20Dec2024 02:14:01.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[20Dec2024 02:14:01.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[20Dec2024 02:14:01.230] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[20Dec2024 02:14:12.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by Elite Skeleton
+[20Dec2024 02:14:23.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Discreet Search]
+[20Dec2024 02:15:47.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Simple Turret
+[20Dec2024 02:15:47.871] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[20Dec2024 02:15:47.875] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[20Dec2024 02:16:20.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was doomed to fall by Elite Skeleton
+[20Dec2024 02:16:20.722] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[20Dec2024 02:16:20.723] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[20Dec2024 02:16:26.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was doomed to fall by Elite Skeleton
+[20Dec2024 02:16:33.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Simple Turret
+[20Dec2024 02:16:33.475] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[20Dec2024 02:16:33.479] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[20Dec2024 02:17:33.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by Simple Turret
+[20Dec2024 02:17:52.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> e
+[20Dec2024 02:17:57.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> jwa
+[20Dec2024 02:18:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Simple Turret
+[20Dec2024 02:18:22.494] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[20Dec2024 02:18:22.497] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved

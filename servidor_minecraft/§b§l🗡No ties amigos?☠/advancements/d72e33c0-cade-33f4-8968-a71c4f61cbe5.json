@@ -6241,5 +6241,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-20 02:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-20 02:06:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
