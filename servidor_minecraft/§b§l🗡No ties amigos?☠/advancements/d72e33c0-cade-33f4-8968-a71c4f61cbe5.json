@@ -68,6 +68,7 @@
       "mycotoxic_undergrowth": "2024-12-12 14:18:35 +0000",
       "maple_forest": "2024-12-14 04:19:26 +0000",
       "magnolia_highlands": "2024-12-11 07:28:38 +0000",
+      "sparse_redwoods": "2024-12-20 02:54:14 +0000",
       "boreal_forest": "2024-12-20 01:04:29 +0000",
       "blackstone_basin": "2024-12-11 23:44:41 +0000",
       "towering_cliffs": "2024-12-20 00:56:25 +0000",
@@ -94,6 +95,7 @@
       "rocky_meadow": "2024-12-11 19:17:45 +0000",
       "maple_forest": "2024-12-14 04:19:26 +0000",
       "magnolia_highlands": "2024-12-11 07:28:38 +0000",
+      "sparse_redwoods": "2024-12-20 02:54:14 +0000",
       "boreal_forest": "2024-12-20 01:04:29 +0000",
       "towering_cliffs": "2024-12-20 00:56:25 +0000",
       "temperate_grove": "2024-12-11 07:31:53 +0000",
@@ -1010,6 +1012,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-20 01:24:11 +0000",
       "minecraft:taiga": "2024-12-20 01:21:55 +0000",
+      "minecraft:bamboo_jungle": "2024-12-20 02:54:15 +0000",
       "minecraft:beach": "2024-12-11 18:39:05 +0000",
       "minecraft:river": "2024-12-11 06:00:41 +0000",
       "minecraft:lukewarm_ocean": "2024-12-12 06:14:23 +0000",
@@ -6255,6 +6258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-20 02:56:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-20 02:19:34 +0000"
@@ -6282,6 +6291,18 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-20 02:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-20 02:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-20 02:56:30 +0000"
     },
     "done": true
   },
