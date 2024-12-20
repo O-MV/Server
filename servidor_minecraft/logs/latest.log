@@ -285,3 +285,29 @@
 [20Dec2024 02:18:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Simple Turret
 [20Dec2024 02:18:22.494] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
 [20Dec2024 02:18:22.497] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[20Dec2024 02:18:31.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Simple Turret
+[20Dec2024 02:19:11.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [First Step]
+[20Dec2024 02:20:17.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Simple Turret
+[20Dec2024 02:20:17.023] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[20Dec2024 02:20:17.025] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[20Dec2024 02:20:29.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Simple Turret
+[20Dec2024 02:20:43.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:49163] logged in with entity id 80311 at (859.7204689226729, 68.0625, 131.95587680030943)
+[20Dec2024 02:20:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[20Dec2024 02:20:44.199] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[20Dec2024 02:20:44.201] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[20Dec2024 02:20:56.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Ghost
+[20Dec2024 02:20:56.040] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[20Dec2024 02:20:56.063] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[20Dec2024 02:21:31.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Andrea'/80408, l='ServerLevel[🗡No ties amigos?☠]', x=774.61, y=46.00, z=183.26] died, message: 'Andrea was blown up by Troll'
+[20Dec2024 02:21:31.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Andrea'/80408, l='ServerLevel[🗡No ties amigos?☠]', x=774.61, y=46.00, z=183.26] died: Andrea was blown up by Troll
+[20Dec2024 02:21:32.473] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Heink'/80409, l='ServerLevel[🗡No ties amigos?☠]', x=773.58, y=45.17, z=181.18] died, message: 'Heink was slain by Troll'
+[20Dec2024 02:21:32.473] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Heink'/80409, l='ServerLevel[🗡No ties amigos?☠]', x=773.58, y=45.17, z=181.18] died: Heink was slain by Troll
+[20Dec2024 02:21:33.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Ghost
+[20Dec2024 02:21:33.278] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[20Dec2024 02:21:33.293] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[20Dec2024 02:21:39.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Ghost
+[20Dec2024 02:21:55.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was slain by Ghost
+[20Dec2024 02:27:19.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Simple Turret
+[20Dec2024 02:27:19.326] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[20Dec2024 02:27:19.327] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[20Dec2024 02:27:25.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Simple Turret
