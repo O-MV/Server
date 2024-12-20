@@ -203,3 +203,10 @@
 [20Dec2024 05:06:19.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
 [20Dec2024 05:06:19.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
 [20Dec2024 05:06:19.311] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[20Dec2024 05:44:58.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:50497] logged in with entity id 1517 at (847.821852793923, 64.0, 73.16127662949425)
+[20Dec2024 05:44:58.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[20Dec2024 05:45:00.149] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[20Dec2024 05:45:00.153] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[20Dec2024 05:47:26.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[20Dec2024 05:47:26.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[20Dec2024 05:47:26.808] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
